@@ -130,29 +130,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kartik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07070a&title_color=7c5cfc&icon_color=a78bfa&text_color=c9d1d9&ring_color=7c5cfc" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik&layout=compact&theme=tokyonight&hide_border=true&bg_color=07070a&title_color=7c5cfc&text_color=c9d1d9" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik&theme=tokyonight&hide_border=true&background=07070a&stroke=7c5cfc&ring=7c5cfc&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=5d5382" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik&bg_color=07070a&color=a78bfa&line=7c5cfc&point=ffffff&area=true&hide_border=true&area_color=2d1b69" width="100%"/>
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
