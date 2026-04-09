@@ -131,14 +131,6 @@ interests:  [Agentic AI, LLM Products, Scalable Systems]
 
 ---
 
-### &nbsp; Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kartik&bg_color=0d0d0d&color=9d7cfc&line=9d7cfc&point=ffffff&area=true&area_color=1e1030&hide_border=true" width="97%"/>
-</div>
-
----
-
 ### &nbsp; Snake
 
 <div align="center">
