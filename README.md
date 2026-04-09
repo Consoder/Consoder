@@ -88,7 +88,11 @@ contact:    kartikbhargava1111@gmail.com
 ## 🏆 &nbsp;Achievements
 
 <div align="center">
-
+![AWS](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Google_Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Deloitte](https://img.shields.io/badge/Deloitte_Analytics-86BC25?style=for-the-badge&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open_to_Internship-00B140?style=for-the-badge&logo=handshake&logoColor=white)
+![Views](https://komarev.com/ghpvc/?username=Kartik&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 | &nbsp; | Achievement | Impact |
 |:---:|:---|:---:|
 | 🥈 | **IEEE Hackathon** — Built a working AI prototype with go-to-market strategy | `2nd Place` |
