@@ -116,22 +116,6 @@ contact:    kartikbhargava1111@gmail.com
 
 ---
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kartik&show_icons=true&hide_border=true&bg_color=0d001a&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&ring_color=7c3aed&include_all_commits=true&count_private=true&hide=issues&card_width=420"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kartik&layout=compact&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=c4b5fd&langs_count=8&card_width=300"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kartik&hide_border=true&background=0d001a&stroke=a78bfa&ring=7c3aed&fire=c4b0ff&currStreakLabel=c4b0ff&sideLabels=a78bfa&dates=6b7280&sideNums=c4b5fd&currStreakNum=e9d5ff"/>
-</div>
-
----
-
 ## 📈 &nbsp;Activity Overview
 
 <div align="center">
