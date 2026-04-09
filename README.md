@@ -55,35 +55,33 @@ contact:    kartikbhargava1111@gmail.com
 
 ## 🛠️ &nbsp;Tech Stack
 
-### Frontend & UI
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,java,cpp,bash&perline=8&theme=dark"/>
 
-### AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma&perline=8&theme=dark"/>
+
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,prisma&perline=8&theme=dark"/>
+
+### 🤖 AI / GenAI
+<img src="https://skillicons.dev/icons?i=openai&perline=8&theme=dark"/>
+
+&nbsp;
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-8B5CF6?style=for-the-badge&logo=databricks&logoColor=white)
 
-### Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,supabase,mysql&perline=8&theme=dark"/>
 
-### DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,git,github,linux,vscode&perline=8&theme=dark"/>
+
+</div>
 
 ---
 
@@ -112,44 +110,6 @@ contact:    kartikbhargava1111@gmail.com
 | ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white) | **Google Vertex AI & Gemini API** | Multimodal AI · Gemini API · Vertex AI Studio |
 | ![Deloitte](https://img.shields.io/badge/Deloitte-86BC25?style=flat-square&logo=deloitte&logoColor=white) | **Deloitte Data Analytics** | Fraud Detection · ML Pipelines · 95% Precision |
 
-</div>
-
----
-
-## 📈 &nbsp;Activity Overview
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kartik&theme=2077" width="97%"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kartik&theme=2077&utcOffset=5.5" width="31%"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kartik&theme=2077" width="31%"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kartik&theme=2077" width="31%"/>
-</div>
-
----
-
-## 🐍 &nbsp;Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kartik/Kartik/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kartik/Kartik/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Kartik/Kartik/output/github-contribution-grid-snake-dark.svg" width="97%"/>
-  </picture>
-</div>
-
----
-
-## 🏅 &nbsp;Trophy Showcase
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartik&theme=radical&no-bg=true&no-frame=true&column=6&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B"/>
 </div>
 
 ---
