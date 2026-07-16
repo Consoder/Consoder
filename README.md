@@ -90,6 +90,12 @@ flowchart LR
 
 ## <samp>~/kartik $ ls projects/ --sort=impact</samp>
 
+<img align="right" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="dev board gif"/>
+
+<samp>THREE BUILDS · REAL METRICS · CODE IS PUBLIC — OPEN ANY REPO AND GRILL ME ON IT.</samp>
+
+<br clear="right"/>
+
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
@@ -141,6 +147,8 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → **121K params, 94.1% val 
 
 ## <samp>~/kartik $ git log --experience</samp>
 
+<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="developer at desk gif"/>
+
 ```text
 * commit 2026.05 → 2026.06  (HEAD)
 │ role:    Software Engineer — Full-Stack Intern
@@ -155,6 +163,8 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → **121K params, 94.1% val 
 │ work:    end-to-end self-driving simulator — data collection, training,
 │          evaluation → 94%+ accuracy · Grad-CAM explainability
 ```
+
+<br clear="right"/>
 
 <samp>**HONOURS**</samp> &nbsp;·&nbsp; 🥈 IEEE Hackathon — **2nd Place** (working prototype + go-to-market) &nbsp;·&nbsp; 🎤 DevOps Workshop **Coordinator** — 100+ students
 
@@ -197,8 +207,6 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → **121K params, 94.1% val 
 <br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Consoder&show_icons=true&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&icon_color=C9A876&ring_color=8b5cf6"/>&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Consoder&layout=compact&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&langs_count=8"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Consoder&hide_border=true&background=0D001A&stroke=1a0533&ring=a78bfa&fire=C9A876&currStreakLabel=e8d5ff&currStreakNum=e8d5ff&sideNums=a78bfa&sideLabels=e8d5ff&dates=6d28d9"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Consoder&bg_color=0d001a&color=a78bfa&line=8b5cf6&point=C9A876&area=true&area_color=1a0533&hide_border=true&hide_title=true" width="100%"/>
 
