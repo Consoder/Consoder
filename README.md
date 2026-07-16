@@ -2,13 +2,9 @@
 
 <!-- ══════════════ 00 — HERO ARCHITECTURE ══════════════ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/hero.svg" width="100%" alt="Kartik Bhargava — Full-Stack Engineer"/>
-
-  <br/><br/>
-
   <img alt="typing pitch" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;COMPETITIVE+PROGRAMMER"/>
 
-  <br/>
+  <br/><br/>
 
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
@@ -18,10 +14,10 @@
 
   <br/><br/>
 
-  <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/btn-portfolio.svg" height="38" alt="Portfolio"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/btn-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:kartikbhargava1111@gmail.com"><img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/btn-email.svg" height="38" alt="Email"/></a>&nbsp;
-  <a href="https://github.com/Consoder?tab=repositories"><img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/btn-repos.svg" height="38" alt="All repositories"/></a>
+  <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white" height="35"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
+  <a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>&nbsp;
+  <a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
 
 </div>
 
