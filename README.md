@@ -1,31 +1,21 @@
-<!-- ═══════════════════════════════ HERO ═══════════════════════════════ -->
+<!-- ══════════════ MIDNIGHT ATELIER · design spec in DESIGN.md ══════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0f,35:2a0a4a,70:4c1d95,100:0d001a&text=KARTIK%20BHARGAVA&fontSize=48&fontColor=e8d5ff&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20ENGINEER%20%C2%B7%20B.TECH%20CSE%20'27%20%C2%B7%20SKIT%20JAIPUR&descSize=14&descAlignY=58" width="100%"/>
+<img src="assets/hero.svg" width="100%" alt="Kartik Bhargava — Full-Stack Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=34&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=700&height=55&lines=Building+products+people+love+to+use" />
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" alt="hi"/>&nbsp;&nbsp;
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2600&pause=600&color=A78BFA&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+FastAPI+%C2%B7+Redis+%C2%B7+Postgres;%F0%9F%9F%A2+open+to+SDE+%2F+full-stack+%2F+backend+roles;385%2B+DSA+solved+%C2%B7+sub-50ms+systems+%C2%B7+shipping+weekly" />
-
-<br/>
-
-<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/⌘_PORTFOLIO-1a0533?style=for-the-badge&logoColor=C9A876&labelColor=1a0533&color=8b5cf6"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LINKEDIN-1a0533?style=for-the-badge&logo=linkedin&logoColor=e8d5ff&labelColor=1a0533&color=4c1d95"/></a>&nbsp;
-<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0533?style=for-the-badge&logo=gmail&logoColor=e8d5ff&labelColor=1a0533&color=8b5cf6"/></a>&nbsp;
-<a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOS-1a0533?style=for-the-badge&logo=github&logoColor=e8d5ff&labelColor=1a0533&color=4c1d95"/></a>
+<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="assets/btn-portfolio.svg" height="42" alt="Portfolio"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:kartikbhargava1111@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email"/></a>&nbsp;
+<a href="https://github.com/Consoder?tab=repositories"><img src="assets/btn-repos.svg" height="42" alt="All repositories"/></a>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════ 01 ABOUT ═══════════════════════════════ -->
+<!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=01+%E2%80%94+The+Engineer" />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
-</div>
+<img src="assets/h-01.svg" width="100%" alt="01 — The Engineer"/>
 
 <table width="100%">
 <tr>
@@ -60,14 +50,9 @@ const kartik = {
 
 <br/>
 
-<!-- ═══════════════════════════════ 02 ARCHITECTURE ═══════════════════════════════ -->
+<!-- ══════════════ 02 — ARCHITECTURE ══════════════ -->
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=480&height=42&lines=02+%E2%80%94+Architecture+I'm+Proud+Of" />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
-<br/><br/>
-<samp>PULSE.IO — A REDIRECT THAT NEVER WAITS FOR ANALYTICS</samp>
-</div>
+<img src="assets/h-02.svg" width="100%" alt="02 — Architecture"/>
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0533','primaryTextColor':'#e8d5ff','primaryBorderColor':'#8b5cf6','lineColor':'#a78bfa','fontFamily':'monospace','clusterBkg':'#0d001a'}}}%%
@@ -85,53 +70,50 @@ flowchart LR
     end
 ```
 
-<div align="center"><sup>Every click enqueues a BullMQ job — background workers do the heavy lifting, the redirect never blocks. <a href="https://github.com/Consoder/Pulse.io"><b>→ read the code</b></a></sup></div>
+<div align="center"><sup>Every click enqueues a BullMQ job — workers do the heavy lifting off the hot path, so the redirect never waits for analytics. <a href="https://github.com/Consoder/Pulse.io"><b>→ read the code</b></a></sup></div>
 
 <br/>
 
-<!-- ═══════════════════════════════ 03 PROJECTS ═══════════════════════════════ -->
+<!-- ══════════════ 03 — SELECTED WORK ══════════════ -->
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=03+%E2%80%94+Selected+Work" />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
-</div>
+<img src="assets/h-03.svg" width="100%" alt="03 — Selected Work"/>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-<h3>⚡ Pulse.io</h3>
-<samp>LINK INTELLIGENCE ENGINE</samp>
+<h3 align="center">⚡ Pulse.io</h3>
+<p align="center"><sub><samp>LINK INTELLIGENCE ENGINE</samp></sub></p>
 
-<p align="left">Sub-50ms redirects (architecture ↑). JWT + Google OAuth, MongoDB aggregation pipelines for geo / device / campaign breakdowns, Recharts + Framer Motion dashboard.</p>
+Sub-50ms redirects (architecture ↑). JWT + Google OAuth, MongoDB aggregation pipelines for geo / device / campaign breakdowns, Recharts + Framer Motion dashboard.
 
-<img src="https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/Node-1a0533?style=flat-square&logo=nodedotjs&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/Redis-1a0533?style=flat-square&logo=redis&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/BullMQ-1a0533?style=flat-square&logoColor=a78bfa"/>
+<p align="center"><code>React</code> <code>Node</code> <code>Express</code> <code>MongoDB</code> <code>Redis</code> <code>BullMQ</code></p>
 
-<a href="https://github.com/Consoder/Pulse.io"><img src="https://img.shields.io/badge/→_REPOSITORY-C9A876?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/></a>
-
-</td>
-<td width="33%" valign="top" align="center">
-
-<h3>🔍 Code Analysis Platform</h3>
-<samp>AI CODE REVIEW · 7 LANGUAGES</samp>
-
-<p align="left">Bug detection, Big-O analysis, quality scoring. Redis cache keyed on <b>SHA-256 of source</b> — repeat analysis drops from 2–8s to <b>~40ms</b>. JWT + OAuth, rate limiting, PostgreSQL.</p>
-
-<img src="https://img.shields.io/badge/Next.js_14-1a0533?style=flat-square&logo=nextdotjs&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/FastAPI-1a0533?style=flat-square&logo=fastapi&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/Redis-1a0533?style=flat-square&logo=redis&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=a78bfa"/>
-
-<a href="https://github.com/Consoder/ROASTCODE"><img src="https://img.shields.io/badge/→_REPOSITORY-C9A876?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/></a>
+<p align="center"><a href="https://github.com/Consoder/Pulse.io"><b>→ repository</b></a></p>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="33%" valign="top">
 
-<h3>🚗 Vision Navigation</h3>
-<samp>BEHAVIORAL CLONING CNN</samp>
+<h3 align="center">🔍 Code Analysis Platform</h3>
+<p align="center"><sub><samp>AI CODE REVIEW · 7 LANGUAGES</samp></sub></p>
 
-<p align="left">NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val accuracy</b>, real-time CPU inference. Pygame sim with <b>Grad-CAM</b> showing what the model watches while steering.</p>
+Bug detection, Big-O analysis, quality scoring. Redis cache keyed on SHA-256 of source — repeat analysis drops from 2–8s to <b>~40ms</b>. JWT + OAuth, rate limiting, PostgreSQL.
 
-<img src="https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/TensorFlow-1a0533?style=flat-square&logo=tensorflow&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/OpenCV-1a0533?style=flat-square&logo=opencv&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/Pygame-1a0533?style=flat-square&logoColor=a78bfa"/>
+<p align="center"><code>Next.js 14</code> <code>FastAPI</code> <code>Redis</code> <code>PostgreSQL</code></p>
 
-<a href="https://github.com/Consoder/Vision-Based-Autonomous-Navigation-System"><img src="https://img.shields.io/badge/→_REPOSITORY-C9A876?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/></a>
+<p align="center"><a href="https://github.com/Consoder/ROASTCODE"><b>→ repository</b></a></p>
+
+</td>
+<td width="33%" valign="top">
+
+<h3 align="center">🚗 Vision Navigation</h3>
+<p align="center"><sub><samp>BEHAVIORAL CLONING CNN</samp></sub></p>
+
+NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val accuracy</b>, real-time CPU inference. Pygame sim with Grad-CAM showing what the model watches while steering.
+
+<p align="center"><code>Python</code> <code>TensorFlow</code> <code>OpenCV</code> <code>Pygame</code></p>
+
+<p align="center"><a href="https://github.com/Consoder/Vision-Based-Autonomous-Navigation-System"><b>→ repository</b></a></p>
 
 </td>
 </tr>
@@ -141,21 +123,14 @@ flowchart LR
 
 <br/>
 
-<!-- ═══════════════════════════════ 04 EXPERIENCE ═══════════════════════════════ -->
+<!-- ══════════════ 04 — EXPERIENCE ══════════════ -->
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=04+%E2%80%94+Experience" />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
-</div>
+<img src="assets/h-04.svg" width="100%" alt="04 — Experience"/>
 
 <table width="100%">
 <tr>
-<td width="26%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/MAY–JUN_2026-1a0533?style=for-the-badge&color=4c1d95"/>
-
-</td>
-<td width="74%" valign="middle">
+<td width="22%" align="center" valign="middle"><samp><b>MAY–JUN<br/>2026</b></samp></td>
+<td width="78%" valign="middle">
 
 <b>Software Engineer — Full-Stack Intern</b> · Wisflux Pvt. Ltd<br/>
 <sub>Secure REST APIs, auth/authorization & backend features for a scalable MERN link-management platform · Agile/Scrum · code reviews · performance optimization</sub>
@@ -163,12 +138,8 @@ flowchart LR
 </td>
 </tr>
 <tr>
-<td width="26%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/MAY–JUL_2025-1a0533?style=for-the-badge&color=4c1d95"/>
-
-</td>
-<td width="74%" valign="middle">
+<td align="center" valign="middle"><samp><b>MAY–JUL<br/>2025</b></samp></td>
+<td valign="middle">
 
 <b>Python & Machine Learning Intern</b> · KisTechno Software Pvt. Ltd<br/>
 <sub>End-to-end self-driving simulator — data collection, training, evaluation → 94%+ accuracy · Grad-CAM explainability added on mentor feedback</sub>
@@ -181,16 +152,20 @@ flowchart LR
 <tr>
 <td width="50%" align="center" valign="top">
 
-<samp>🏆 HONOURS</samp><br/><br/>
-🥈 IEEE Hackathon — <b>2nd Place</b><br/><sub>working prototype + go-to-market strategy</sub><br/><br/>
-🎤 DevOps Workshop <b>Coordinator</b><br/><sub>100+ students</sub>
+<samp>HONOURS</samp>
+
+🥈 IEEE Hackathon — <b>2nd Place</b><br/><sub>working prototype + go-to-market strategy</sub>
+
+🎤 DevOps Workshop <b>Coordinator</b> — <sub>100+ students</sub>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<samp>📜 CREDENTIALS</samp><br/><br/>
-☁️ AWS Cloud Practitioner Essentials<br/><sub>EC2 · S3 · VPC · IAM</sub><br/><br/>
-✨ Google Vertex AI — Prompt Design &nbsp;·&nbsp; 📊 Deloitte Data Analytics
+<samp>CREDENTIALS</samp>
+
+☁️ AWS Cloud Practitioner Essentials<br/><sub>EC2 · S3 · VPC · IAM</sub>
+
+✨ Google Vertex AI — Prompt Design · 📊 Deloitte Data Analytics
 
 </td>
 </tr>
@@ -198,16 +173,13 @@ flowchart LR
 
 <br/>
 
-<!-- ═══════════════════════════════ 05 STACK ═══════════════════════════════ -->
+<!-- ══════════════ 05 — THE STACK ══════════════ -->
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=05+%E2%80%94+The+Stack" />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
-</div>
+<img src="assets/h-05.svg" width="100%" alt="05 — The Stack"/>
 
 <table width="100%">
 <tr>
-<td align="center" width="20%"><samp>LANGUAGES</samp></td>
+<td align="center" width="22%"><samp>LANGUAGES</samp></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql&theme=dark"/></td>
 </tr>
 <tr>
@@ -219,7 +191,7 @@ flowchart LR
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark"/></td>
 </tr>
 <tr>
-<td align="center"><samp>TOOLS ×<br/>CLOUD</samp></td>
+<td align="center"><samp>TOOLS × CLOUD</samp></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,postman&theme=dark"/></td>
 </tr>
 </table>
@@ -228,17 +200,11 @@ flowchart LR
 
 <br/>
 
-<!-- ═══════════════════════════════ 06 TELEMETRY ═══════════════════════════════ -->
+<!-- ══════════════ 06 — TELEMETRY ══════════════ -->
+
+<img src="assets/h-06.svg" width="100%" alt="06 — Telemetry"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=06+%E2%80%94+Telemetry" />
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Consoder&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
-
-<br/><br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Consoder&show_icons=true&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&icon_color=C9A876&ring_color=8b5cf6"/>&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Consoder&layout=compact&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&langs_count=8"/>
 
@@ -254,22 +220,24 @@ flowchart LR
 
 <br/>
 
-<!-- ═══════════════════════════════ CONTACT ═══════════════════════════════ -->
+<!-- ══════════════ SIGN-OFF ══════════════ -->
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="typing"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=30&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=600&height=50&lines=Let's+build+something+real" />
-
-<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/⌘_PORTFOLIO-1a0533?style=for-the-badge&labelColor=1a0533&color=8b5cf6"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LINKEDIN-1a0533?style=for-the-badge&logo=linkedin&logoColor=e8d5ff&labelColor=1a0533&color=4c1d95"/></a>&nbsp;
-<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0533?style=for-the-badge&logo=gmail&logoColor=e8d5ff&labelColor=1a0533&color=8b5cf6"/></a>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="typing"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Consoder&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
+<img src="assets/signoff.svg" width="60%" alt="Let's build something real."/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d001a,50:4c1d95,100:0a0a0f&section=footer&text=BUILD%20FAST.%20SHIP%20CLEAN.%20MAKE%20IT%20REAL.&fontSize=15&fontColor=C9A876&fontAlignY=78" width="100%"/>
+<br/>
+
+<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="assets/btn-portfolio.svg" height="42" alt="Portfolio"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:kartikbhargava1111@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email"/></a>
+
+<br/><br/>
+
+<img src="assets/footer.svg" width="100%" alt="build fast · ship clean · make it real"/>
 
 </div>
