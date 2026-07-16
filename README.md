@@ -23,7 +23,7 @@
 
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 <h2 align="left">
-  <img src="https://img.shields.io/badge/01._THE_ENGINEER-A78BFA?style=flat-square&fontName=Cinzel&fontColor=A78BFA&color=121212" alt="01. The Engineer" height="30" />
+  <img src="https://img.shields.io/badge/01._THE_ENGINEER-121212?style=flat-square&fontName=Cinzel&fontColor=A78BFA&color=121212" alt="01. The Engineer" height="34" />
 </h2>
 
 <table width="100%">
