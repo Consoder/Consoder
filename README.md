@@ -2,7 +2,7 @@
 
 <!-- ══════════════ 00 — HERO ARCHITECTURE ══════════════ -->
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Kartik Bhargava — Full-Stack Engineer"/>
+  <img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/hero.svg" width="100%" alt="Kartik Bhargava — Full-Stack Engineer"/>
 
   <br/><br/>
 
@@ -18,14 +18,12 @@
 
   <br/><br/>
 
-  <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="assets/btn-portfolio.svg" height="38" alt="Portfolio"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:kartikbhargava1111@gmail.com"><img src="assets/btn-email.svg" height="38" alt="Email"/></a>&nbsp;
-  <a href="https://github.com/Consoder?tab=repositories"><img src="assets/btn-repos.svg" height="38" alt="All repositories"/></a>
+  <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/btn-portfolio.svg" height="38" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/btn-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:kartikbhargava1111@gmail.com"><img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/btn-email.svg" height="38" alt="Email"/></a>&nbsp;
+  <a href="https://github.com/Consoder?tab=repositories"><img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/btn-repos.svg" height="38" alt="All repositories"/></a>
 
 </div>
-
-<br/>
 
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 
