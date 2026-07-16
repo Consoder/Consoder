@@ -22,8 +22,8 @@
 </div>
 
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
-<h2 style="font-family: 'Georgia', serif; font-size: 28px; font-weight: 400; letter-spacing: 1px; color: #f3f4f6; border-bottom: 1px solid #374151; padding-bottom: 8px;">
-  <span style="color: #A78BFA;">01 /</span> The Engineer
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Notable&size=24&duration=1&pause=0&color=A78BFA&vCenter=true&width=400&height=40&lines=01.+THE+ENGINEER" alt="01. The Engineer" />
 </h2>
 
 <table width="100%">
