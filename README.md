@@ -23,7 +23,7 @@
 
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Notable&size=24&duration=1&pause=0&color=A78BFA&vCenter=true&width=400&height=40&lines=01.+THE+ENGINEER" alt="01. The Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&duration=1&pause=0&color=A78BFA&vCenter=true&width=400&height=40&lines=01.+THE+ENGINEER" alt="01. The Engineer" />
 </h2>
 
 <table width="100%">
