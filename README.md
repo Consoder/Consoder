@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Consoder&h=140&w=140&fit=cover&mask=circle" width="140" alt="Kartik Bhargava"/>
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60" alt="hello wave"/>
 
 <br/><br/>
 
