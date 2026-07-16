@@ -31,7 +31,7 @@
 </div>
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=FFD700&vCenter=true&width=400&height=40&lines=01.+THE+ENGINEER" alt="01. The Engineer" />
+  <img src="font=Cinzel&weight=600&size=24&color=FFD700&vCenter=true&width=400&height=40&lines=01.+THE+ENGINEER" alt="01. The Engineer" />
 </h2>
 <table width="100%">
 <tr>
