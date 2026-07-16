@@ -22,8 +22,9 @@
 </div>
 
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
-
-## 🛠️ The Engineer
+<h2 style="font-family: 'Georgia', serif; font-size: 28px; font-weight: 400; letter-spacing: 1px; color: #f3f4f6; border-bottom: 1px solid #374151; padding-bottom: 8px;">
+  <span style="color: #A78BFA;">01 /</span> The Engineer
+</h2>
 
 <table width="100%">
 <tr>
