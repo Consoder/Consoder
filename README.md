@@ -23,7 +23,7 @@
 
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 <h2 align="left">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='40'><defs><style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&amp;display=swap'); text { font-family: 'Cinzel', serif; font-weight: 600; font-size: 24px; fill: %23A78BFA; }</style></defs><text x='0' y='28'>01. THE ENGINEER</text></svg>" alt="01. The Engineer" />
+  <img src="https://img.shields.io/badge/01._THE_ENGINEER-A78BFA?style=flat-square&fontName=Cinzel&fontColor=A78BFA&color=121212" alt="01. The Engineer" height="30" />
 </h2>
 
 <table width="100%">
