@@ -33,8 +33,8 @@
 
 </div>
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
-<h2 align="left">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='50'><style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&amp;display=swap'); text { font-family: 'Cinzel', serif; font-size: 34px; fill: %23A78BFA; }</style><text x='0' y='38'>01. THE ENGINEER</text></svg>" alt="01. The Engineer" height="34" />
+<h2 align="left" style="font-family: 'Times New Roman', Times, serif; font-size: 32px; font-weight: 400; color: #A78BFA; letter-spacing: 3px;">
+  01. THE ENGINEER
 </h2>
 
 <table width="100%">
