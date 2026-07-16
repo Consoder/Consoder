@@ -1,13 +1,48 @@
 <!-- ══════════════ MIDNIGHT ATELIER · design spec in DESIGN.md ══════════════ -->
 
+<!-- ══════════════ 00 — HERO ARCHITECTURE ══════════════ -->
 <div align="center">
+  <!-- Main Banner -->
+  <img src="assets/hero.svg" width="100%" alt="Kartik Bhargava — Full-Stack Engineer"/>
+  
+  <br/><br/>
+  
+  <!-- Dynamic Interactive Subtitle Engine -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;COMPETITIVE+PROGRAMMER"/>
+    <img alt="Kartik Bhargava Pitch" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS"/>
+  </picture>
+  
+  <br/>
+  
+  <!-- Mini Tech Stack Architecture Bar -->
+  <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="background: transparent; border: none;">
+      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
+      </td>
+      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
+      </td>
+      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
+      </td>
+      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
+      </td>
+      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
+      </td>
+    </tr>
+  </table>
 
-<img src="assets/hero.svg" width="100%" alt="Kartik Bhargava — Full-Stack Engineer"/>
+  <br/>
 
-<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="assets/btn-portfolio.svg" height="42" alt="Portfolio"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:kartikbhargava1111@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email"/></a>&nbsp;
-<a href="https://github.com/Consoder?tab=repositories"><img src="assets/btn-repos.svg" height="42" alt="All repositories"/></a>
+  <!-- Interactive Control Panel Buttons -->
+  <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="assets/btn-portfolio.svg" height="38" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:kartikbhargava1111@gmail.com"><img src="assets/btn-email.svg" height="38" alt="Email"/></a>&nbsp;
+  <a href="https://github.com/Consoder?tab=repositories"><img src="assets/btn-repos.svg" height="38" alt="All repositories"/></a>
 
 </div>
 
