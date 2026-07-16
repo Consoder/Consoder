@@ -208,8 +208,6 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → **121K params, 94.1% val 
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Consoder&show_icons=true&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&icon_color=C9A876&ring_color=8b5cf6"/>&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Consoder&layout=compact&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&langs_count=8"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Consoder&bg_color=0d001a&color=a78bfa&line=8b5cf6&point=C9A876&area=true&area_color=1a0533&hide_border=true&hide_title=true" width="100%"/>
-
 <br/><br/>
 
 <!-- CONTRIBUTION SNAKE — powered by .github/workflows/snake.yml in this repo -->
