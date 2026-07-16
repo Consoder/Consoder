@@ -34,7 +34,7 @@
 </div>
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 <h2 align="left">
-  <img src="https://img.shields.io/badge/01._THE_ENGINEER-121212?style=flat-square&fontName=Cinzel&size=34&fontColor=A78BFA&color=121212" alt="01. The Engineer" height="34" />
+  <img src="https://ui-avatars.com/api/?name=01.+THE+ENGINEER&font-family=Cinzel&background=121212&color=A78BFA&size=512&bold=true&length=20" alt="01. The Engineer" height="34" />
 </h2>
 
 <table width="100%">
