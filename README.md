@@ -1,45 +1,43 @@
-<!-- ════════════════════════════ BOOT SEQUENCE ════════════════════════════ -->
+<!-- ═══════════════════════════════ HERO ═══════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0a0f,35:2a0a4a,70:4c1d95,100:0d001a&text=KARTIK%20BHARGAVA&fontSize=48&fontColor=e8d5ff&fontAlignY=38&animation=fadeIn&desc=FULL-STACK%20ENGINEER%20%C2%B7%20B.TECH%20CSE%20'27%20%C2%B7%20SKIT%20JAIPUR&descSize=14&descAlignY=58" width="100%"/>
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=34&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=700&height=55&lines=Building+products+people+love+to+use" />
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="60" alt="hello wave"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=40&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=720&height=58&lines=Kartik+Bhargava" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2800&pause=900&color=C9A876&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+full-stack+engineer+%C2%B7+B.Tech+CSE+'27+%C2%B7+SKIT+Jaipur;%24+cat+stack.txt+%E2%86%92+React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+FastAPI+%C2%B7+Redis+%C2%B7+Postgres;%24+status+%E2%86%92+%F0%9F%9F%A2+open+to+SDE+%2F+full-stack+%2F+backend+roles" />
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" alt="hi"/>&nbsp;&nbsp;
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2600&pause=600&color=A78BFA&center=true&vCenter=true&width=560&lines=React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+FastAPI+%C2%B7+Redis+%C2%B7+Postgres;%F0%9F%9F%A2+open+to+SDE+%2F+full-stack+%2F+backend+roles;385%2B+DSA+solved+%C2%B7+sub-50ms+systems+%C2%B7+shipping+weekly" />
 
 <br/>
 
-<kbd><a href="https://kartik-portfolio-6k36.vercel.app/">&nbsp;⌘ PORTFOLIO&nbsp;</a></kbd>&nbsp;&nbsp;
-<kbd><a href="https://www.linkedin.com/in/kartik-bhargava-248796257">&nbsp;⟡ LINKEDIN&nbsp;</a></kbd>&nbsp;&nbsp;
-<kbd><a href="mailto:kartikbhargava1111@gmail.com">&nbsp;◈ EMAIL&nbsp;</a></kbd>&nbsp;&nbsp;
-<kbd><a href="#architecture">&nbsp;⚙ SEE THE ARCHITECTURE ↓&nbsp;</a></kbd>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
+<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/⌘_PORTFOLIO-1a0533?style=for-the-badge&logoColor=C9A876&labelColor=1a0533&color=8b5cf6"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LINKEDIN-1a0533?style=for-the-badge&logo=linkedin&logoColor=e8d5ff&labelColor=1a0533&color=4c1d95"/></a>&nbsp;
+<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0533?style=for-the-badge&logo=gmail&logoColor=e8d5ff&labelColor=1a0533&color=8b5cf6"/></a>&nbsp;
+<a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/ALL_REPOS-1a0533?style=for-the-badge&logo=github&logoColor=e8d5ff&labelColor=1a0533&color=4c1d95"/></a>
 
 </div>
 
-<!-- ════════════════════════════ RUNTIME ════════════════════════════ -->
+<br/>
 
-## <samp>~/kartik $ cat profile.ts</samp>
+<!-- ═══════════════════════════════ 01 ABOUT ═══════════════════════════════ -->
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=01+%E2%80%94+The+Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
+</div>
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
 ```typescript
 const kartik = {
   location: "Jaipur, IN — remote-ready",
-  education: "B.Tech CSE '27 · SKIT Jaipur · 8.3 CGPA",
+  education: "B.Tech CSE '27 · SKIT · 8.3 CGPA",
 
   languages: ["C++", "Python", "JavaScript", "SQL", "C"],
-  backend:   ["Node", "Express", "FastAPI", "REST"],
+  backend:   ["Node", "Express", "FastAPI"],
   frontend:  ["React", "Next.js", "Tailwind"],
   data:      ["PostgreSQL", "MongoDB", "Redis"],
   infra:     ["Docker", "AWS", "GitHub Actions"],
@@ -47,22 +45,29 @@ const kartik = {
   dsa: { solved: 385, medium: 181, hard: 34 },
 
   obsession: "systems where the hot path never blocks",
-  currentlyShipping: "AI code analysis platform",
   hireable: true,
 };
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="middle" align="center">
 
-<div align="center"><samp>─────── ✦ ───────</samp></div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
 
-<!-- ════════════════════════════ ARCHITECTURE ════════════════════════════ -->
+</td>
+</tr>
+</table>
 
-<a id="architecture"></a>
+<br/>
 
-## <samp>~/kartik $ mermaid pulse.io --hot-path</samp>
+<!-- ═══════════════════════════════ 02 ARCHITECTURE ═══════════════════════════════ -->
 
-<samp>MY FAVOURITE THING I'VE BUILT — A REDIRECT THAT NEVER WAITS FOR ANALYTICS</samp>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=480&height=42&lines=02+%E2%80%94+Architecture+I'm+Proud+Of" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
+<br/><br/>
+<samp>PULSE.IO — A REDIRECT THAT NEVER WAITS FOR ANALYTICS</samp>
+</div>
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0533','primaryTextColor':'#e8d5ff','primaryBorderColor':'#8b5cf6','lineColor':'#a78bfa','fontFamily':'monospace','clusterBkg':'#0d001a'}}}%%
@@ -80,127 +85,156 @@ flowchart LR
     end
 ```
 
-<sup>The redirect and the analytics never share a thread of fate — every click enqueues a BullMQ job, background workers do the heavy lifting. <a href="https://github.com/Consoder/Pulse.io"><b>→ read the code</b></a></sup>
+<div align="center"><sup>Every click enqueues a BullMQ job — background workers do the heavy lifting, the redirect never blocks. <a href="https://github.com/Consoder/Pulse.io"><b>→ read the code</b></a></sup></div>
 
 <br/>
 
-<div align="center"><samp>─────── ✦ ───────</samp></div>
+<!-- ═══════════════════════════════ 03 PROJECTS ═══════════════════════════════ -->
 
-<!-- ════════════════════════════ SELECTED WORK ════════════════════════════ -->
-
-## <samp>~/kartik $ ls projects/ --sort=impact</samp>
-
-<img align="right" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="dev board gif"/>
-
-<samp>THREE BUILDS · REAL METRICS · CODE IS PUBLIC — OPEN ANY REPO AND GRILL ME ON IT.</samp>
-
-<br clear="right"/>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=03+%E2%80%94+Selected+Work" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
+</div>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### ⚡ Pulse.io
+<h3>⚡ Pulse.io</h3>
 <samp>LINK INTELLIGENCE ENGINE</samp>
 
-Sub-50ms redirects (architecture ↑). JWT + Google OAuth, MongoDB aggregation pipelines powering geo / device / campaign breakdowns, Recharts + Framer Motion dashboard.
+<p align="left">Sub-50ms redirects (architecture ↑). JWT + Google OAuth, MongoDB aggregation pipelines for geo / device / campaign breakdowns, Recharts + Framer Motion dashboard.</p>
 
-`React` `Node` `Express` `MongoDB` `Redis` `BullMQ`
+<img src="https://img.shields.io/badge/React-1a0533?style=flat-square&logo=react&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/Node-1a0533?style=flat-square&logo=nodedotjs&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/MongoDB-1a0533?style=flat-square&logo=mongodb&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/Redis-1a0533?style=flat-square&logo=redis&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/BullMQ-1a0533?style=flat-square&logoColor=a78bfa"/>
 
-<kbd><a href="https://github.com/Consoder/Pulse.io">→ REPO</a></kbd>
+<a href="https://github.com/Consoder/Pulse.io"><img src="https://img.shields.io/badge/→_REPOSITORY-C9A876?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🔍 Code Analysis Platform
+<h3>🔍 Code Analysis Platform</h3>
 <samp>AI CODE REVIEW · 7 LANGUAGES</samp>
 
-Bug detection, Big-O analysis, quality scoring. Redis cache keyed on **SHA-256 of source** — repeat analysis drops from 2–8s to **~40ms**. JWT + OAuth, rate limiting, PostgreSQL.
+<p align="left">Bug detection, Big-O analysis, quality scoring. Redis cache keyed on <b>SHA-256 of source</b> — repeat analysis drops from 2–8s to <b>~40ms</b>. JWT + OAuth, rate limiting, PostgreSQL.</p>
 
-`Next.js 14` `FastAPI` `Redis` `PostgreSQL`
+<img src="https://img.shields.io/badge/Next.js_14-1a0533?style=flat-square&logo=nextdotjs&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/FastAPI-1a0533?style=flat-square&logo=fastapi&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/Redis-1a0533?style=flat-square&logo=redis&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/PostgreSQL-1a0533?style=flat-square&logo=postgresql&logoColor=a78bfa"/>
 
-<kbd><a href="https://github.com/Consoder/ROASTCODE">→ REPO</a></kbd>
+<a href="https://github.com/Consoder/ROASTCODE"><img src="https://img.shields.io/badge/→_REPOSITORY-C9A876?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/></a>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🚗 Vision Navigation
+<h3>🚗 Vision Navigation</h3>
 <samp>BEHAVIORAL CLONING CNN</samp>
 
-NVIDIA-style end-to-end CNN, 4,500+ labeled frames → **121K params, 94.1% val accuracy**, real-time CPU inference. Pygame sim with **Grad-CAM** overlays showing what the model watches while steering.
+<p align="left">NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val accuracy</b>, real-time CPU inference. Pygame sim with <b>Grad-CAM</b> showing what the model watches while steering.</p>
 
-`Python` `TensorFlow` `OpenCV` `Pygame`
+<img src="https://img.shields.io/badge/Python-1a0533?style=flat-square&logo=python&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/TensorFlow-1a0533?style=flat-square&logo=tensorflow&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/OpenCV-1a0533?style=flat-square&logo=opencv&logoColor=a78bfa"/> <img src="https://img.shields.io/badge/Pygame-1a0533?style=flat-square&logoColor=a78bfa"/>
 
-<kbd><a href="https://github.com/Consoder/Vision-Based-Autonomous-Navigation-System">→ REPO</a></kbd>
+<a href="https://github.com/Consoder/Vision-Based-Autonomous-Navigation-System"><img src="https://img.shields.io/badge/→_REPOSITORY-C9A876?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/></a>
 
 </td>
 </tr>
 </table>
 
-<sub>ALSO — <a href="https://github.com/Consoder/saas-notes-app"><b>saas-notes-app</b></a> · multi-tenant API, JWT + RBAC &nbsp;/&nbsp; <a href="https://github.com/Consoder/SMS-IDENTIFIER"><b>SMS-IDENTIFIER</b></a> · TF-IDF spam classifier &nbsp;/&nbsp; <a href="https://github.com/Consoder?tab=repositories">full index →</a></sub>
+<div align="center"><sub>ALSO — <a href="https://github.com/Consoder/saas-notes-app"><b>saas-notes-app</b></a> · multi-tenant API, JWT + RBAC &nbsp;/&nbsp; <a href="https://github.com/Consoder/SMS-IDENTIFIER"><b>SMS-IDENTIFIER</b></a> · TF-IDF spam classifier</sub></div>
 
 <br/>
 
-<div align="center"><samp>─────── ✦ ───────</samp></div>
-
-<!-- ════════════════════════════ EXPERIENCE ════════════════════════════ -->
-
-## <samp>~/kartik $ git log --experience</samp>
-
-<img align="right" width="300" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="developer at desk gif"/>
-
-```text
-* commit 2026.05 → 2026.06  (HEAD)
-│ role:    Software Engineer — Full-Stack Intern
-│ org:     Wisflux Pvt. Ltd
-│ work:    secure REST APIs, auth/authorization & backend features for a
-│          MERN link-management platform · Agile/Scrum · code reviews ·
-│          performance optimization
-│
-* commit 2025.05 → 2025.07
-│ role:    Python & Machine Learning Intern
-│ org:     KisTechno Software Pvt. Ltd
-│ work:    end-to-end self-driving simulator — data collection, training,
-│          evaluation → 94%+ accuracy · Grad-CAM explainability
-```
-
-<br clear="right"/>
-
-<samp>**HONOURS**</samp> &nbsp;·&nbsp; 🥈 IEEE Hackathon — **2nd Place** (working prototype + go-to-market) &nbsp;·&nbsp; 🎤 DevOps Workshop **Coordinator** — 100+ students
-
-<samp>**CREDENTIALS**</samp> &nbsp;·&nbsp; ☁️ AWS Cloud Practitioner Essentials &nbsp;·&nbsp; ✨ Google Vertex AI — Prompt Design &nbsp;·&nbsp; 📊 Deloitte Data Analytics
-
-<br/>
-
-<div align="center"><samp>─────── ✦ ───────</samp></div>
-
-<!-- ════════════════════════════ STACK ════════════════════════════ -->
-
-## <samp>~/kartik $ tree stack/</samp>
+<!-- ═══════════════════════════════ 04 EXPERIENCE ═══════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql&theme=dark"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,aws,git,github,githubactions,postman&theme=dark"/>
-
-<br/>
-
-<sub><samp>CORE CS — DSA · OOP · DBMS · OPERATING SYSTEMS · COMPUTER NETWORKS · REST · CI/CD</samp></sub>
-
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=04+%E2%80%94+Experience" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
 </div>
 
+<table width="100%">
+<tr>
+<td width="26%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/MAY–JUN_2026-1a0533?style=for-the-badge&color=4c1d95"/>
+
+</td>
+<td width="74%" valign="middle">
+
+<b>Software Engineer — Full-Stack Intern</b> · Wisflux Pvt. Ltd<br/>
+<sub>Secure REST APIs, auth/authorization & backend features for a scalable MERN link-management platform · Agile/Scrum · code reviews · performance optimization</sub>
+
+</td>
+</tr>
+<tr>
+<td width="26%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/MAY–JUL_2025-1a0533?style=for-the-badge&color=4c1d95"/>
+
+</td>
+<td width="74%" valign="middle">
+
+<b>Python & Machine Learning Intern</b> · KisTechno Software Pvt. Ltd<br/>
+<sub>End-to-end self-driving simulator — data collection, training, evaluation → 94%+ accuracy · Grad-CAM explainability added on mentor feedback</sub>
+
+</td>
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<samp>🏆 HONOURS</samp><br/><br/>
+🥈 IEEE Hackathon — <b>2nd Place</b><br/><sub>working prototype + go-to-market strategy</sub><br/><br/>
+🎤 DevOps Workshop <b>Coordinator</b><br/><sub>100+ students</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<samp>📜 CREDENTIALS</samp><br/><br/>
+☁️ AWS Cloud Practitioner Essentials<br/><sub>EC2 · S3 · VPC · IAM</sub><br/><br/>
+✨ Google Vertex AI — Prompt Design &nbsp;·&nbsp; 📊 Deloitte Data Analytics
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-<div align="center"><samp>─────── ✦ ───────</samp></div>
-
-<!-- ════════════════════════════ TELEMETRY ════════════════════════════ -->
-
-## <samp>~/kartik $ htop --github</samp>
+<!-- ═══════════════════════════════ 05 STACK ═══════════════════════════════ -->
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=05+%E2%80%94+The+Stack" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="20%"><samp>LANGUAGES</samp></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><samp>FRONTEND ×<br/>BACKEND</samp></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><samp>DATA</samp></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark"/></td>
+</tr>
+<tr>
+<td align="center"><samp>TOOLS ×<br/>CLOUD</samp></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,postman&theme=dark"/></td>
+</tr>
+</table>
+
+<div align="center"><sub><samp>CORE CS — DSA · OOP · DBMS · OPERATING SYSTEMS · COMPUTER NETWORKS · REST · CI/CD</samp></sub></div>
+
+<br/>
+
+<!-- ═══════════════════════════════ 06 TELEMETRY ═══════════════════════════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=26&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=42&lines=06+%E2%80%94+Telemetry" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="42%"/>
+
+<br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Consoder&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
 
@@ -210,7 +244,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → **121K params, 94.1% val 
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE — powered by .github/workflows/snake.yml in this repo -->
+<!-- CONTRIBUTION SNAKE — powered by .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
@@ -220,36 +254,22 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → **121K params, 94.1% val 
 
 <br/>
 
-<!-- ════════════════════════════ CONTACT ════════════════════════════ -->
+<!-- ═══════════════════════════════ CONTACT ═══════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="typing"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=500&size=30&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=600&height=50&lines=Let's+build+something+real" />
+
+<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/⌘_PORTFOLIO-1a0533?style=for-the-badge&labelColor=1a0533&color=8b5cf6"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LINKEDIN-1a0533?style=for-the-badge&logo=linkedin&logoColor=e8d5ff&labelColor=1a0533&color=4c1d95"/></a>&nbsp;
+<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0533?style=for-the-badge&logo=gmail&logoColor=e8d5ff&labelColor=1a0533&color=8b5cf6"/></a>
 
 <br/><br/>
 
-<img width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="typing on laptop"/>
+<img src="https://komarev.com/ghpvc/?username=Consoder&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" />
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=22&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=600&height=40&lines=Let's+build+something+real." />
-
-<br/>
-
-<kbd><a href="https://kartik-portfolio-6k36.vercel.app/">&nbsp;PORTFOLIO&nbsp;</a></kbd>&nbsp;&nbsp;
-<kbd><a href="https://www.linkedin.com/in/kartik-bhargava-248796257">&nbsp;LINKEDIN&nbsp;</a></kbd>&nbsp;&nbsp;
-<kbd><a href="mailto:kartikbhargava1111@gmail.com">&nbsp;KARTIKBHARGAVA1111@GMAIL.COM&nbsp;</a></kbd>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Consoder&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-<sub><samp>© 2026 KARTIK BHARGAVA · $ exit 0</samp></sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0d001a,50:4c1d95,100:0a0a0f&section=footer&text=BUILD%20FAST.%20SHIP%20CLEAN.%20MAKE%20IT%20REAL.&fontSize=15&fontColor=C9A876&fontAlignY=78" width="100%"/>
 
 </div>
