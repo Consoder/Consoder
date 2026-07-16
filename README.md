@@ -23,7 +23,7 @@
 
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&typeSpeed=0&duration=1&pause=0&color=A78BFA&vCenter=true&width=400&height=40&lines=01.+THE+ENGINEER" alt="01. The Engineer" />
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='40'><defs><style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&amp;display=swap'); text { font-family: 'Cinzel', serif; font-weight: 600; font-size: 24px; fill: %23A78BFA; }</style></defs><text x='0' y='28'>01. THE ENGINEER</text></svg>" alt="01. The Engineer" />
 </h2>
 
 <table width="100%">
