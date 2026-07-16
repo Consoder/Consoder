@@ -6,6 +6,10 @@
 
 <br/><br/>
 
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Consoder&h=140&w=140&fit=cover&mask=circle" width="140" alt="Kartik Bhargava"/>
+
+<br/><br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=40&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=720&height=58&lines=Kartik+Bhargava" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=2800&pause=900&color=C9A876&center=true&vCenter=true&width=720&lines=%24+whoami+%E2%86%92+full-stack+engineer+%C2%B7+B.Tech+CSE+'27+%C2%B7+SKIT+Jaipur;%24+cat+stack.txt+%E2%86%92+React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+FastAPI+%C2%B7+Redis+%C2%B7+Postgres;%24+status+%E2%86%92+%F0%9F%9F%A2+open+to+SDE+%2F+full-stack+%2F+backend+roles" />
@@ -27,7 +31,7 @@
 
 ## <samp>~/kartik $ cat profile.ts</samp>
 
-<img align="right" width="380" src="https://github-readme-activity-graph.vercel.app/graph?username=Consoder&bg_color=0d001a&color=a78bfa&line=8b5cf6&point=C9A876&area=true&area_color=1a0533&hide_border=true&hide_title=true&height=250" />
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 ```typescript
 const kartik = {
@@ -196,6 +200,8 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → **121K params, 94.1% val 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Consoder&hide_border=true&background=0D001A&stroke=1a0533&ring=a78bfa&fire=C9A876&currStreakLabel=e8d5ff&currStreakNum=e8d5ff&sideNums=a78bfa&sideLabels=e8d5ff&dates=6d28d9"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Consoder&bg_color=0d001a&color=a78bfa&line=8b5cf6&point=C9A876&area=true&area_color=1a0533&hide_border=true&hide_title=true" width="100%"/>
+
 <br/><br/>
 
 <!-- CONTRIBUTION SNAKE — powered by .github/workflows/snake.yml in this repo -->
@@ -213,6 +219,10 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → **121K params, 94.1% val 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
+
+<br/><br/>
+
+<img width="320" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="typing on laptop"/>
 
 <br/><br/>
 
