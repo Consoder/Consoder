@@ -69,7 +69,7 @@ const kartik = {
 <!-- ══════════════ 02 — ARCHITECTURE ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=02.+THE+ ARCHITECTURE" alt="01. The Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=02.+THE+ ARCHITECTURE" alt="02. The Architecture" />
 </h2>
 
 ```mermaid
@@ -95,7 +95,7 @@ flowchart LR
 <!-- ══════════════ 03 — SELECTED WORK ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=03.+SELECTED+WORKS" alt="01. The Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=03.+SELECTED+WORKS" alt="03. SELECTED WORKS" />
 </h2>
 
 <table width="100%">
@@ -145,7 +145,9 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <!-- ══════════════ 04 — EXPERIENCE ══════════════ -->
 
-<img src="assets/h-04.svg" width="100%" alt="04 — Experience"/>
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=04.+THE+EXPERIENCE" alt="04. The Experience" />
+</h2>
 
 <table width="100%">
 <tr>
