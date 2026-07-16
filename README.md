@@ -34,7 +34,7 @@
 </div>
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 <h2 align="left">
-  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='500' height='40'><path d='M0 0h500v40H0z' fill='%23121212'/><style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&amp;display=swap'); text { font-family: 'Cinzel', serif; font-weight: 600; font-size: 36px; fill: %23A78BFA; letter-spacing: 1px; }</style><text x='15' y='28'>01. THE ENGINEER</text></svg>" alt="01. The Engineer" height="34" />
+  <img src="https://ui-avatars.com/api/?name=01.+THE+ENGINEER&font-family=Cinzel&background=121212&color=A78BFA&size=512&bold=true&length=20" alt="01. The Engineer" height="34" />
 </h2>
 
 <table width="100%">
