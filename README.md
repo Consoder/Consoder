@@ -23,7 +23,7 @@
 
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 
-<img src="assets/h-01.svg" width="100%" alt="01 — The Engineer"/>
+## 🛠️ The Engineer
 
 <table width="100%">
 <tr>
