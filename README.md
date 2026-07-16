@@ -71,7 +71,9 @@ const kartik = {
 
 <!-- ══════════════ 02 — ARCHITECTURE ══════════════ -->
 
-<img src="assets/h-02.svg" width="100%" alt="02 — Architecture"/>
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=02.+THE+ ARCHITECTURE" alt="01. The Engineer" />
+</h2>
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0533','primaryTextColor':'#e8d5ff','primaryBorderColor':'#8b5cf6','lineColor':'#a78bfa','fontFamily':'monospace','clusterBkg':'#0d001a'}}}%%
@@ -95,7 +97,9 @@ flowchart LR
 
 <!-- ══════════════ 03 — SELECTED WORK ══════════════ -->
 
-<img src="assets/h-03.svg" width="100%" alt="03 — Selected Work"/>
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=03.+SELECTED+WORKS" alt="01. The Engineer" />
+</h2>
 
 <table width="100%">
 <tr>
