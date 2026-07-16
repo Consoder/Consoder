@@ -34,9 +34,8 @@
 </div>
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 <h2 align="left">
-  <img src="https://img.shields.io/badge/01._THE_ENGINEER-121212?style=flat-square&fontName=Cinzel&fontColor=A78BFA&color=121212" alt="01. The Engineer" height="34" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&typeSpeed=0&duration=1&pause=0&color=A78BFA&vCenter=true&width=400&height=40&lines=01.+THE+ENGINEER" alt="01. The Engineer" />
 </h2>
-
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
