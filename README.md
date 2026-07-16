@@ -1,58 +1,33 @@
-
 <div align="center">
-  <table width="100%" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      
-      <!-- LEFT COLUMN: Typing Pitch, Tech Stack, Links -->
-      <td width="55%" valign="middle" align="center" style="border: none; padding: 10px;">
-        
-        <!-- Pitch Header -->
-        <img alt="typing pitch" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&height=40&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;COMPETITIVE+PROGRAMMER"/>
-        
-        <br/><br/>
-        
-        <!-- Tech Stack -->
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="26"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="26"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="26"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="26"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="26"/>
-        
-        <br/><br/>
-        
-        <!-- Social Connections -->
-        <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white" height="32"/></a>&nbsp;
-        <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>&nbsp;
-        <a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
-        <a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
-      
-      </td>
-      
-      <!-- RIGHT COLUMN: Terminal Component Photo Frame -->
-      <td width="45%" valign="middle" align="center" style="border: none; padding: 10px;">
-        
-        <table style="border-collapse: collapse; border: 1px solid #2d3139; background-color: #0d1117; border-radius: 6px; width: 100%; max-width: 320px; overflow: hidden;">
-          <!-- Terminal Header Bar -->
-          <tr style="background: #161b22; border-bottom: 1px solid #2d3139;">
-            <td align="left" style="padding: 8px 12px;">
-              <span style="color: #ff5f56; font-size: 14px;">●</span>
-              <span style="color: #ffbd2e; font-size: 14px;">●</span>
-              <span style="color: #27c93f; font-size: 14px;">●</span>
-              <font color="#8b949e" face="Fira Code, monospace" size="1" style="margin-left: 10px;"><b>sh profile.sh</b></font>
-            </td>
-          </tr>
-          <!-- Terminal Content View -->
-          <tr>
-            <td align="center" style="padding: 12px; background: #0d1117;">
-              <img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/Pofile-Photo.png" width="100%" style="border-radius: 4px; display: block;" alt="Kartik Bhargava"/>
-            </td>
-          </tr>
-        </table>
 
-      </td>
+  <!-- Pitch Header -->
+  <img alt="typing pitch" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;COMPETITIVE+PROGRAMMER"/>
 
-    </tr>
-  </table>
+  <br/><br/>
+
+  <!-- Structured Layout Table -->
+  <table align="center" style="border-collapse: collapse; border: none;">
+    <!-- Tech Stack Row -->
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px;">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
+      </td>
+    </tr>
+    <!-- Connect / Buttons Row -->
+    <tr style="border: none;">
+      <td align="center" style="border: none; padding: 10px;">
+        <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white" height="35"/></a>&nbsp;
+        <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
+        <a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>&nbsp;
+        <a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 <h2 align="left">
