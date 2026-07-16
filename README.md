@@ -1,48 +1,27 @@
-<!-- ══════════════ MIDNIGHT ATELIER · design spec in DESIGN.md ══════════════ -->
+  <!-- ══════════════ MIDNIGHT ATELIER · design spec in DESIGN.md ══════════════ -->
 
 <!-- ══════════════ 00 — HERO ARCHITECTURE ══════════════ -->
 <div align="center">
-  <!-- Main Banner -->
-  <img src="assets/hero.svg" width="100%" alt="Kartik Bhargava — Full-Stack Engineer"/>
-  
-  <br/><br/>
-  
-  <!-- Dynamic Interactive Subtitle Engine -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;COMPETITIVE+PROGRAMMER"/>
-    <img alt="Kartik Bhargava Pitch" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS"/>
-  </picture>
-  
-  <br/>
-  
-  <!-- Mini Tech Stack Architecture Bar -->
-  <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
-    <tr style="background: transparent; border: none;">
-      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
-      </td>
-      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
-      </td>
-      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
-      </td>
-      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
-      </td>
-      <td align="center" style="padding: 0 4px; border: none; background: transparent;">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
-      </td>
-    </tr>
-  </table>
+  <img src="assets/hero.svg" width="100%" alt="Kartik Bhargava — Full-Stack Engineer"/>
 
-  <br/>
+  <br/><br/>
 
-  <!-- Interactive Control Panel Buttons -->
-  <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="assets/btn-portfolio.svg" height="38" alt="Portfolio"/></a>&nbsp;
-  <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:kartikbhargava1111@gmail.com"><img src="assets/btn-email.svg" height="38" alt="Email"/></a>&nbsp;
-  <a href="https://github.com/Consoder?tab=repositories"><img src="assets/btn-repos.svg" height="38" alt="All repositories"/></a>
+  <img alt="typing pitch" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;COMPETITIVE+PROGRAMMER"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
+
+  <br/><br/>
+
+  <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="assets/btn-portfolio.svg" height="38" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="assets/btn-linkedin.svg" height="38" alt="LinkedIn"/></a>&nbsp;
+  <a href="mailto:kartikbhargava1111@gmail.com"><img src="assets/btn-email.svg" height="38" alt="Email"/></a>&nbsp;
+  <a href="https://github.com/Consoder?tab=repositories"><img src="assets/btn-repos.svg" height="38" alt="All repositories"/></a>
 
 </div>
 
@@ -58,19 +37,19 @@
 
 ```typescript
 const kartik = {
-  location: "Jaipur, IN — remote-ready",
-  education: "B.Tech CSE '27 · SKIT · 8.3 CGPA",
+  location: "Jaipur, IN — remote-ready",
+  education: "B.Tech CSE '27 · SKIT · 8.3 CGPA",
 
-  languages: ["C++", "Python", "JavaScript", "SQL", "C"],
-  backend:   ["Node", "Express", "FastAPI"],
-  frontend:  ["React", "Next.js", "Tailwind"],
-  data:      ["PostgreSQL", "MongoDB", "Redis"],
-  infra:     ["Docker", "AWS", "GitHub Actions"],
+  languages: ["C++", "Python", "JavaScript", "SQL", "C"],
+  backend:   ["Node", "Express", "FastAPI"],
+  frontend:  ["React", "Next.js", "Tailwind"],
+  data:      ["PostgreSQL", "MongoDB", "Redis"],
+  infra:     ["Docker", "AWS", "GitHub Actions"],
 
-  dsa: { solved: 385, medium: 181, hard: 34 },
+  dsa: { solved: 385, medium: 181, hard: 34 },
 
-  obsession: "systems where the hot path never blocks",
-  hireable: true,
+  obsession: "systems where the hot path never blocks",
+  hireable: true,
 };
 ```
 
@@ -92,17 +71,17 @@ const kartik = {
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0533','primaryTextColor':'#e8d5ff','primaryBorderColor':'#8b5cf6','lineColor':'#a78bfa','fontFamily':'monospace','clusterBkg':'#0d001a'}}}%%
 flowchart LR
-    U(("👤 click")) --> API["Express API"]
-    API --> C{"Redis<br/>cache hit?"}
-    C -->|"yes · O(1)"| R[["⚡ 301 redirect<br/><b>sub-50ms</b>"]]
-    C -->|miss| M[("MongoDB")] --> W["warm cache"] --> R
-    API -.->|"fire & forget"| Q[/"BullMQ queue"/]
-    subgraph BG ["⚙ off the hot path"]
-        Q --> WK["worker"]
-        WK --> GEO["geo-IP + UA<br/>fingerprint"]
-        GEO --> AGG[("Mongo<br/>aggregations")]
-        AGG --> DASH["📊 Recharts<br/>dashboard"]
-    end
+    U(("👤 click")) --> API["Express API"]
+    API --> C{"Redis<br/>cache hit?"}
+    C -->|"yes · O(1)"| R[["⚡ 301 redirect<br/><b>sub-50ms</b>"]]
+    C -->|miss| M[("MongoDB")] --> W["warm cache"] --> R
+    API -.->|"fire & forget"| Q[/"BullMQ queue"/]
+    subgraph BG ["⚙ off the hot path"]
+        Q --> WK["worker"]
+        WK --> GEO["geo-IP + UA<br/>fingerprint"]
+        GEO --> AGG[("Mongo<br/>aggregations")]
+        AGG --> DASH["📊 Recharts<br/>dashboard"]
+    end
 ```
 
 <div align="center"><sup>Every click enqueues a BullMQ job — workers do the heavy lifting off the hot path, so the redirect never waits for analytics. <a href="https://github.com/Consoder/Pulse.io"><b>→ read the code</b></a></sup></div>
@@ -247,8 +226,8 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <!-- CONTRIBUTION SNAKE — powered by .github/workflows/snake.yml -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
