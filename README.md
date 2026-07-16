@@ -33,8 +33,8 @@
 
 </div>
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
-<h2 align="left" style="font-family: 'Times New Roman', Times, serif; font-size: 32px; font-weight: 400; color: #A78BFA; letter-spacing: 3px;">
-  01. THE ENGINEER
+<h2 align="left">
+  <img src="https://img.shields.io/badge/01._THE_ENGINEER-121212?style=flat-square&fontName=Cinzel&fontColor=A78BFA&color=121212" alt="01. The Engineer" height="34" />
 </h2>
 
 <table width="100%">
