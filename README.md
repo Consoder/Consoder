@@ -1,37 +1,42 @@
+<table width="100%">
+<tr>
+<td width="30%" align="center" valign="middle">
+
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Consoder&h=200&w=200&fit=cover&mask=circle" width="200" alt="Kartik Bhargava"/>
+
+<br/>
+
+<sub><b>Kartik Bhargava</b></sub>
+
+</td>
+<td width="70%" align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=38&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=560&height=54&lines=Kartik+Bhargava" alt="Kartik Bhargava"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=32&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;385%2B+DSA+SOLVED+%C2%B7+COMPETITIVE+PROGRAMMER" alt="pitch"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="26"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="26"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="26"/>
+
+<br/><br/>
+
+<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>&nbsp;
+<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
+<a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<!-- ══════════════ AVATAR (static photo, auto-syncs to your GitHub DP) ══════════════ -->
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Consoder&h=130&w=130&fit=cover&mask=circle" width="130" alt="Kartik Bhargava"/>
-
-<br/>
-
-<!-- ══════════════ NAME + PITCH ══════════════ -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=44&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=700&height=62&lines=Kartik+Bhargava" alt="Kartik Bhargava"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=36&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;385%2B+DSA+SOLVED+%C2%B7+COMPETITIVE+PROGRAMMER" alt="pitch"/>
-
-<br/>
-
-<!-- ══════════════ TECH BADGES ══════════════ -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
-
-<br/><br/>
-
-<!-- ══════════════ CONTACT BUTTONS ══════════════ -->
-<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
-<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>&nbsp;
-<a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
-
 </div>
 
 <br/>
