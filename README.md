@@ -220,20 +220,23 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <table width="100%">
 <tr>
-<td align="center" width="22%"><samp>LANGUAGES</samp></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql&theme=dark"/></td>
+<td align="center" width="20%"><samp>LANGUAGES</samp></td>
+<td align="center">&nbsp;<br/><img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql&theme=dark&perline=8" height="52"/><br/>&nbsp;</td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
-<td align="center"><samp>FRONTEND ×<br/>BACKEND</samp></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark"/></td>
+<td align="center"><samp>FRONTEND<br/>×<br/>BACKEND</samp></td>
+<td align="center">&nbsp;<br/><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark&perline=8" height="52"/><br/>&nbsp;</td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center"><samp>DATA</samp></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark"/></td>
+<td align="center">&nbsp;<br/><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=8" height="52"/><br/>&nbsp;</td>
 </tr>
+<tr><td colspan="2"><br/></td></tr>
 <tr>
-<td align="center"><samp>TOOLS × CLOUD</samp></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,postman&theme=dark"/></td>
+<td align="center"><samp>TOOLS<br/>×<br/>CLOUD</samp></td>
+<td align="center">&nbsp;<br/><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,postman&theme=dark&perline=8" height="52"/><br/>&nbsp;</td>
 </tr>
 </table>
 
@@ -249,7 +252,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Consoder&show_icons=true&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&icon_color=C9A876&ring_color=8b5cf6"/>&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Consoder&layout=compact&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&langs_count=8"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Consoder&show_icons=true&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&icon_color=C9A876&ring_color=8b5cf6&cache_seconds=1800"/>&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Consoder&layout=compact&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&langs_count=8&cache_seconds=1800"/>
 
 <br/><br/>
 
