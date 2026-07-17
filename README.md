@@ -6,7 +6,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Consoder&h=200&w=200&fit=cover&mask=circle" width="200" alt="Kartik Bhargava"/>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="190" alt="Kartik Bhargava — coding"/>
 
 <br/>
 
