@@ -19,7 +19,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=560&height=42&lines=Building+products+people+love+to+use" alt="tagline"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=28&lines=status%3A+open+to+sde+%2F+full-stack+%2F+backend;location%3A+jaipur%2C+in+·+remote-ready;focus%3A+systems+where+the+hot+path+never+blocks" alt="status"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=28&lines=status%3A+open+to+sde+%2F+full-stack+%2F+backend;location%3A+jaipur%2C+india+-+remote-ready;focus%3A+systems+where+the+hot+path+never+blocks" alt="status"/>
 
 <br/>
 
