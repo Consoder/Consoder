@@ -215,7 +215,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <!-- ══════════════ 05 — THE STACK ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=05.+THE+STACK" alt="05. The Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=1000&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=05.+THE+STACK" alt="05. The Stack"/>
 </h2>
 
 <table width="100%">
