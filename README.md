@@ -252,7 +252,10 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Consoder&show_icons=true&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&icon_color=C9A876&ring_color=8b5cf6&cache_seconds=1800"/>&nbsp;<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Consoder&layout=compact&hide_border=true&bg_color=0d001a&title_color=a78bfa&text_color=e8d5ff&langs_count=8&cache_seconds=1800"/>
+<img src="https://img.shields.io/badge/DSA_SOLVED-385+-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
+<img src="https://img.shields.io/badge/MEDIUM-181-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
+<img src="https://img.shields.io/badge/HARD-34-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Consoder?style=for-the-badge&label=FOLLOWERS&labelColor=1a0533&color=1a0533"/>
 
 <br/><br/>
 
