@@ -250,15 +250,6 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=06.+TELEMETRY" alt="06. Telemetry"/>
 </h2>
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/DSA_SOLVED-385+-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
-<img src="https://img.shields.io/badge/MEDIUM-181-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
-<img src="https://img.shields.io/badge/HARD-34-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Consoder?style=for-the-badge&label=FOLLOWERS&labelColor=1a0533&color=1a0533"/>
-
-<br/><br/>
-
 <!-- CONTRIBUTION SNAKE — needs .github/workflows/snake.yml + one manual Action run.
      Skipping that setup? Delete this <picture> block, it will 404 otherwise. -->
 <picture>
