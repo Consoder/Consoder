@@ -19,23 +19,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=560&height=42&lines=Building+products+people+love+to+use" alt="tagline"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=28&lines=%24+status+%E2%86%92+%F0%9F%9F%A2+open+to+sde+%2F+full-stack+%2F+backend;%24+location+%E2%86%92+jaipur%2C+in+·+remote-ready;%24+focus+%E2%86%92+systems+where+the+hot+path+never+blocks" alt="status"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=28&lines=status%3A+open+to+sde+%2F+full-stack+%2F+backend;location%3A+jaipur%2C+in+·+remote-ready;focus%3A+systems+where+the+hot+path+never+blocks" alt="status"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="26"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="26"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="26"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,redis,postgres&theme=dark" height="42"/>
 
 <br/><br/>
 
-<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/></a>&nbsp;
-<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32"/></a>&nbsp;
-<a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" height="32"/></a>
+<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1a0533?style=flat-square&labelColor=1a0533&color=1a0533&logoColor=C9A876" height="30"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LINKEDIN-1a0533?style=flat-square&logo=linkedin&logoColor=a78bfa" height="30"/></a>&nbsp;
+<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0533?style=flat-square&logo=gmail&logoColor=a78bfa" height="30"/></a>&nbsp;
+<a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/REPOS-1a0533?style=flat-square&logo=github&logoColor=a78bfa" height="30"/></a>
 
 </td>
 </tr>
@@ -289,13 +284,13 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <br/>
 
-<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
-<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
+<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1a0533?style=flat-square&labelColor=1a0533&color=1a0533&logoColor=C9A876" height="30"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LINKEDIN-1a0533?style=flat-square&logo=linkedin&logoColor=a78bfa" height="30"/></a>&nbsp;
+<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0533?style=flat-square&logo=gmail&logoColor=a78bfa" height="30"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Consoder&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Consoder&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d001a,50:4c1d95,100:0a0a0f&section=footer&text=BUILD%20FAST%20·%20SHIP%20CLEAN%20·%20MAKE%20IT%20REAL&fontSize=15&fontColor=C9A876&fontAlignY=78" width="100%"/>
 
