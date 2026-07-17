@@ -276,13 +276,20 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
 
-<br/><br/>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="280" alt="typing"/>
+<br/>
 
-<br/><br/>
+<table width="100%">
+<tr>
+<td width="30%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=32&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=600&height=52&lines=Let's+build+something+real" alt="Let's build something real"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="200" alt="Kartik Bhargava"/>
+
+</td>
+<td width="70%" align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=32&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=560&height=52&lines=Let's+build+something+real" alt="Let's build something real"/>
 
 <br/>
 
@@ -290,10 +297,14 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LINKEDIN-1a0533?style=flat-square&logo=linkedin&logoColor=a78bfa" height="30"/></a>&nbsp;
 <a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1a0533?style=flat-square&logo=gmail&logoColor=a78bfa" height="30"/></a>
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-<img src="https://komarev.com/ghpvc/?username=Consoder&style=flat-square&color=8b5cf6&label=PROFILE+VIEWS"/>
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d001a,50:4c1d95,100:0a0a0f&section=footer&text=BUILD%20FAST%20·%20SHIP%20CLEAN%20·%20MAKE%20IT%20REAL&fontSize=15&fontColor=C9A876&fontAlignY=78" width="100%"/>
+
+</div>
 
 </div>
