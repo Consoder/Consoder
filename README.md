@@ -6,7 +6,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="220" alt="Kartik Bhargava"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="220" alt="Kartik Bhargava"/>
 
 </td>
 <td width="70%" align="center" valign="middle">
@@ -45,7 +45,7 @@
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=FFD700&center=false&vCenter=true&width=420&height=42&lines=01.+THE+ENGINEER" alt="01. The Engineer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=01.+THE+ENGINEER" alt="01. The Engineer"/>
 </h2>
 
 <table width="100%">
@@ -73,7 +73,7 @@ const kartik = {
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" alt="coding"/>
 
 </td>
 </tr>
@@ -84,7 +84,7 @@ const kartik = {
 <!-- ══════════════ 02 — THE ARCHITECTURE ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=460&height=42&lines=02.+THE+ARCHITECTURE" alt="02. The Architecture"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=02.+THE+ARCHITECTURE" alt="02. The Architecture"/>
 </h2>
 
 <p><samp>PULSE.IO — A REDIRECT THAT NEVER WAITS FOR ANALYTICS</samp></p>
@@ -112,7 +112,7 @@ flowchart LR
 <!-- ══════════════ 03 — SELECTED WORKS ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=460&height=42&lines=03.+SELECTED+WORKS" alt="03. Selected Works"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=03.+SELECTED+WORKS" alt="03. Selected Works"/>
 </h2>
 
 <table width="100%">
@@ -163,7 +163,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <!-- ══════════════ 04 — THE EXPERIENCE ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=460&height=42&lines=04.+THE+EXPERIENCE" alt="04. The Experience"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=04.+THE+EXPERIENCE" alt="04. The Experience"/>
 </h2>
 
 <table width="100%">
@@ -215,7 +215,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <!-- ══════════════ 05 — THE STACK ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=380&height=42&lines=05.+THE+STACK" alt="05. The Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=05.+THE+STACK" alt="05. The Stack"/>
 </h2>
 
 <table width="100%">
@@ -247,7 +247,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <!-- ══════════════ 06 — TELEMETRY ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=380&height=42&lines=06.+TELEMETRY" alt="06. Telemetry"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=06.+TELEMETRY" alt="06. Telemetry"/>
 </h2>
 
 <div align="center">
@@ -278,7 +278,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="typing"/>
+<img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="280" alt="typing"/>
 
 <br/><br/>
 
