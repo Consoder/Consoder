@@ -1,38 +1,47 @@
 <div align="center">
 
-  <!-- Pitch Header -->
-  <img alt="typing pitch" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;COMPETITIVE+PROGRAMMER"/>
+<!-- ══════════════ AVATAR (static photo, auto-syncs to your GitHub DP) ══════════════ -->
+<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/Consoder&h=130&w=130&fit=cover&mask=circle" width="130" alt="Kartik Bhargava"/>
 
-  <br/><br/>
+<br/>
 
-  <!-- Structured Layout Table -->
-  <table align="center" style="border-collapse: collapse; border: none;">
-    <!-- Tech Stack Row -->
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
-      </td>
-    </tr>
-    <!-- Connect / Buttons Row -->
-    <tr style="border: none;">
-      <td align="center" style="border: none; padding: 10px;">
-        <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=react&logoColor=white" height="35"/></a>&nbsp;
-        <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
-        <a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>&nbsp;
-        <a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
-      </td>
-    </tr>
-  </table>
+<!-- ══════════════ NAME + PITCH ══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=44&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=700&height=62&lines=Kartik+Bhargava" alt="Kartik Bhargava"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&height=36&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;385%2B+DSA+SOLVED+%C2%B7+COMPETITIVE+PROGRAMMER" alt="pitch"/>
+
+<br/>
+
+<!-- ══════════════ TECH BADGES ══════════════ -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="28"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28"/>
+
+<br/><br/>
+
+<!-- ══════════════ CONTACT BUTTONS ══════════════ -->
+<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
+<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>&nbsp;
+<a href="https://github.com/Consoder?tab=repositories"><img src="https://img.shields.io/badge/GitHub_Repos-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
 
 </div>
+
+<br/>
+
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
+
 <h2 align="left">
-  <img src="font=Cinzel&weight=600&size=24&color=FFD700&vCenter=true&width=400&height=40&lines=01.+THE+ENGINEER" alt="01. The Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=FFD700&center=false&vCenter=true&width=420&height=42&lines=01.+THE+ENGINEER" alt="01. The Engineer"/>
 </h2>
+
 <table width="100%">
 <tr>
 <td width="55%" valign="top">
@@ -66,11 +75,13 @@ const kartik = {
 
 <br/>
 
-<!-- ══════════════ 02 — ARCHITECTURE ══════════════ -->
+<!-- ══════════════ 02 — THE ARCHITECTURE ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=02.+THE+ ARCHITECTURE" alt="02. The Architecture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=460&height=42&lines=02.+THE+ARCHITECTURE" alt="02. The Architecture"/>
 </h2>
+
+<p><samp>PULSE.IO — A REDIRECT THAT NEVER WAITS FOR ANALYTICS</samp></p>
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0533','primaryTextColor':'#e8d5ff','primaryBorderColor':'#8b5cf6','lineColor':'#a78bfa','fontFamily':'monospace','clusterBkg':'#0d001a'}}}%%
@@ -88,14 +99,14 @@ flowchart LR
     end
 ```
 
-<div align="center"><sup>Every click enqueues a BullMQ job — workers do the heavy lifting off the hot path, so the redirect never waits for analytics. <a href="https://github.com/Consoder/Pulse.io"><b>→ read the code</b></a></sup></div>
+<p><sup>Every click enqueues a BullMQ job — workers do the heavy lifting off the hot path, so the redirect never waits for analytics. <a href="https://github.com/Consoder/Pulse.io"><b>→ read the code</b></a></sup></p>
 
 <br/>
 
-<!-- ══════════════ 03 — SELECTED WORK ══════════════ -->
+<!-- ══════════════ 03 — SELECTED WORKS ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=03.+SELECTED+WORKS" alt="03. SELECTED WORKS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=460&height=42&lines=03.+SELECTED+WORKS" alt="03. Selected Works"/>
 </h2>
 
 <table width="100%">
@@ -143,10 +154,10 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <br/>
 
-<!-- ══════════════ 04 — EXPERIENCE ══════════════ -->
+<!-- ══════════════ 04 — THE EXPERIENCE ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&color=A78BFA&vCenter=true&width=400&height=40&lines=04.+THE+EXPERIENCE" alt="04. The Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=460&height=42&lines=04.+THE+EXPERIENCE" alt="04. The Experience"/>
 </h2>
 
 <table width="100%">
@@ -197,7 +208,9 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <!-- ══════════════ 05 — THE STACK ══════════════ -->
 
-<img src="assets/h-05.svg" width="100%" alt="05 — The Stack"/>
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=380&height=42&lines=05.+THE+STACK" alt="05. The Stack"/>
+</h2>
 
 <table width="100%">
 <tr>
@@ -224,7 +237,9 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <!-- ══════════════ 06 — TELEMETRY ══════════════ -->
 
-<img src="assets/h-06.svg" width="100%" alt="06 — Telemetry"/>
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=380&height=42&lines=06.+TELEMETRY" alt="06. Telemetry"/>
+</h2>
 
 <div align="center">
 
@@ -232,7 +247,8 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <br/><br/>
 
-<!-- CONTRIBUTION SNAKE — powered by .github/workflows/snake.yml -->
+<!-- CONTRIBUTION SNAKE — needs .github/workflows/snake.yml + one manual Action run.
+     Skipping that setup? Delete this <picture> block, it will 404 otherwise. -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
@@ -246,20 +262,26 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
+
+<br/><br/>
+
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="typing"/>
 
 <br/><br/>
 
-<img src="assets/signoff.svg" width="60%" alt="Let's build something real."/>
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=32&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=600&height=52&lines=Let's+build+something+real" alt="Let's build something real"/>
 
 <br/>
 
-<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="assets/btn-portfolio.svg" height="42" alt="Portfolio"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="assets/btn-linkedin.svg" height="42" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:kartikbhargava1111@gmail.com"><img src="assets/btn-email.svg" height="42" alt="Email"/></a>
+<a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" height="35"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>&nbsp;
+<a href="mailto:kartikbhargava1111@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/></a>
 
 <br/><br/>
 
-<img src="assets/footer.svg" width="100%" alt="build fast · ship clean · make it real"/>
+<img src="https://komarev.com/ghpvc/?username=Consoder&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d001a,50:4c1d95,100:0a0a0f&section=footer&text=BUILD%20FAST%20·%20SHIP%20CLEAN%20·%20MAKE%20IT%20REAL&fontSize=15&fontColor=C9A876&fontAlignY=78" width="100%"/>
 
 </div>
