@@ -6,7 +6,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Kartik Bhargava"/>
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="220" alt="Kartik Bhargava"/>
 
 </td>
 <td width="70%" align="center" valign="middle">
