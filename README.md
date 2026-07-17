@@ -215,28 +215,28 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <!-- ══════════════ 05 — THE STACK ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=1000&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=05.+THE+STACK" alt="05. The Stack"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=05.+THE+STACK" alt="05. The Stack"/>
 </h2>
 
 <table width="100%">
 <tr>
 <td align="center" width="20%"><samp>LANGUAGES</samp></td>
-<td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql&theme=dark&perline=8" height="52"/><br/>&nbsp;</td>
+<td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql&theme=dark&perline=8" height="62"/><br/>&nbsp;</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center"><samp>FRONTEND<br/>×<br/>BACKEND</samp></td>
-<td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark&perline=8" height="52"/><br/>&nbsp;</td>
+<td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark&perline=8" height="62"/><br/>&nbsp;</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center"><samp>DATA</samp></td>
-<td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=8" height="52"/><br/>&nbsp;</td>
+<td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=8" height="62"/><br/>&nbsp;</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center"><samp>TOOLS<br/>×<br/>CLOUD</samp></td>
-<td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,postman&theme=dark&perline=8" height="52"/><br/>&nbsp;</td>
+<td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,postman&theme=dark&perline=8" height="62"/><br/>&nbsp;</td>
 </tr>
 </table>
 
@@ -284,7 +284,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="200" alt="Kartik Bhargava"/>
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="200" alt="Kartik Bhargava"/>
 
 </td>
 <td width="70%" align="center" valign="middle">
