@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0a0a0f,50:4c1d95,100:0a0a0f&custom_height=70" width="100%"/>
+</div>
+
 <table width="100%">
 <tr>
 <td width="30%" align="center" valign="middle">
@@ -11,9 +15,11 @@
 </td>
 <td width="70%" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=38&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=560&height=54&lines=Kartik+Bhargava" alt="Kartik Bhargava"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=40&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=560&height=56&lines=Kartik+Bhargava" alt="Kartik Bhargava"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=32&lines=FULL-STACK+ENGINEER;OBSESSED+WITH+SUB-50ms+SYSTEMS;BUILDING+OFF+THE+HOT+PATH;385%2B+DSA+SOLVED+%C2%B7+COMPETITIVE+PROGRAMMER" alt="pitch"/>
+<img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=400&size=26&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=560&height=42&lines=Building+products+people+love+to+use" alt="tagline"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&height=28&lines=%24+status+%E2%86%92+%F0%9F%9F%A2+open+to+sde+%2F+full-stack+%2F+backend;%24+location+%E2%86%92+jaipur%2C+in+·+remote-ready;%24+focus+%E2%86%92+systems+where+the+hot+path+never+blocks" alt="status"/>
 
 <br/>
 
@@ -34,6 +40,10 @@
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0a0a0f,50:4c1d95,100:0a0a0f&custom_height=70&section=footer" width="100%"/>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
