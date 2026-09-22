@@ -1,12 +1,16 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0a0a0f,50:4c1d95,100:0a0a0f&custom_height=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=0:0a0a0f,50:4c1d95,100:0a0a0f&custom_height=75" width="100%"/>
 </div>
 
 <table width="100%">
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/hero-terminal.svg" width="220" alt="Kartik Bhargava"/>
+<samp>●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;kartik@dev:~$</samp>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/kartik-photo.jpg" width="220" style="border-radius:14px" alt="Kartik Bhargava"/>
 
 </td>
 <td width="70%" align="center" valign="middle">
@@ -33,11 +37,60 @@
 </table>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0a0a0f,50:4c1d95,100:0a0a0f&custom_height=70&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=0:0a0a0f,50:4c1d95,100:0a0a0f&custom_height=75&section=footer" width="100%"/>
 </div>
 
+<br/>
+
+<!-- ══════════════ 00 — WHOAMI ══════════════ -->
+
+<h2 align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=380&height=42&lines=00.+WHOAMI" alt="00. Whoami"/>
+</h2>
+
+<table width="100%">
+<tr>
+<td width="46%" align="center" valign="top">
+
+<samp>$ cat self_portrait.ascii</samp>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/ascii-portrait.png" width="100%" alt="ASCII self-portrait of Kartik Bhargava"/>
+
+</td>
+<td width="54%" valign="top">
+
+```bash
+kartik@dev:~$ whoami
+
+Kartik Bhargava
+> Full-Stack / Backend Engineer
+> B.Tech CSE '27 · SKIT · 8.3 CGPA
+> Jaipur, India — remote-ready
+
+kartik@dev:~$ cat focus.txt
+
+systems where the hot path never blocks
+cache first, block never, ship clean
+
+kartik@dev:~$ status --current
+
+[x] open to SDE / Full-Stack / Backend roles
+[x] 385+ DSA problems solved
+[x] shipping Pulse.io, ROASTCODE, Vision-Nav
+
+kartik@dev:~$ _
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="terminal hacker animation"/>
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
 </div>
 
 <br/>
@@ -45,7 +98,7 @@
 <!-- ══════════════ 01 — THE ENGINEER ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=01.+THE+ENGINEER" alt="01. The Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=01.+THE+ENGINEER" alt="01. The Engineer"/>
 </h2>
 
 <table width="100%">
@@ -79,12 +132,16 @@ const kartik = {
 </tr>
 </table>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+</div>
+
 <br/>
 
 <!-- ══════════════ 02 — THE ARCHITECTURE ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=02.+THE+ARCHITECTURE" alt="02. The Architecture"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=02.+THE+ARCHITECTURE" alt="02. The Architecture"/>
 </h2>
 
 <p><samp>PULSE.IO — A REDIRECT THAT NEVER WAITS FOR ANALYTICS</samp></p>
@@ -107,12 +164,16 @@ flowchart LR
 
 <p><sup>Every click enqueues a BullMQ job — workers do the heavy lifting off the hot path, so the redirect never waits for analytics. <a href="https://github.com/Consoder/Pulse.io"><b>→ read the code</b></a></sup></p>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+</div>
+
 <br/>
 
 <!-- ══════════════ 03 — SELECTED WORKS ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=03.+SELECTED+WORKS" alt="03. Selected Works"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=03.+SELECTED+WORKS" alt="03. Selected Works"/>
 </h2>
 
 <table width="100%">
@@ -158,12 +219,16 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <div align="center"><sub>ALSO — <a href="https://github.com/Consoder/saas-notes-app"><b>saas-notes-app</b></a> · multi-tenant API, JWT + RBAC &nbsp;/&nbsp; <a href="https://github.com/Consoder/SMS-IDENTIFIER"><b>SMS-IDENTIFIER</b></a> · TF-IDF spam classifier</sub></div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+</div>
+
 <br/>
 
 <!-- ══════════════ 04 — THE EXPERIENCE ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=04.+THE+EXPERIENCE" alt="04. The Experience"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=04.+THE+EXPERIENCE" alt="04. The Experience"/>
 </h2>
 
 <table width="100%">
@@ -210,13 +275,21 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 </tr>
 </table>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+</div>
+
 <br/>
 
 <!-- ══════════════ 05 — THE STACK ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=05.+THE+STACK" alt="05. The Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=05.+THE+STACK" alt="05. The Stack"/>
 </h2>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" height="130" alt="tech stack floating"/>
+</div>
 
 <table width="100%">
 <tr>
@@ -242,12 +315,16 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <div align="center"><sub><samp>CORE CS — DSA · OOP · DBMS · OPERATING SYSTEMS · COMPUTER NETWORKS · REST · CI/CD</samp></sub></div>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+</div>
+
 <br/>
 
 <!-- ══════════════ 06 — TELEMETRY ══════════════ -->
 
 <h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=06.+TELEMETRY" alt="06. Telemetry"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=06.+TELEMETRY" alt="06. Telemetry"/>
 </h2>
 
 <div align="center">
@@ -255,7 +332,21 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <img src="https://img.shields.io/badge/DSA_SOLVED-385+-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
 <img src="https://img.shields.io/badge/MEDIUM-181-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
 <img src="https://img.shields.io/badge/HARD-34-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Consoder?style=for-the-badge&label=FOLLOWERS&labelColor=1a0533&color=1a0533"/>
+<img src="https://img.shields.io/github/followers/Consoder?style=for-the-badge&label=FOLLOWERS&labelColor=1a0533&color=1a0533"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Consoder&style=for-the-badge&color=1a0533&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<img src="https://github-stats-extended.vercel.app/api?username=Consoder&show_icons=true&count_private=true&hide_border=false&bg_color=0d001a&title_color=C9A876&text_color=E8D5FF&icon_color=A78BFA&border_color=8B5CF6" width="49%" alt="github stats"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Consoder&layout=compact&hide_border=false&bg_color=0d001a&title_color=C9A876&text_color=E8D5FF&border_color=8B5CF6&langs_count=8" width="38%" alt="top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Consoder&background=0D001A&ring=8B5CF6&fire=C9A876&currStreakLabel=E8D5FF&sideLabels=A78BFA&currStreakNum=E8D5FF&sideNums=E8D5FF&border=8B5CF6&dates=A78BFA" width="90%" alt="streak stats"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Consoder&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="trophies"/>
 
 <br/><br/>
 
@@ -304,7 +395,5 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0d001a,50:4c1d95,100:0a0a0f&section=footer&text=BUILD%20FAST%20·%20SHIP%20CLEAN%20·%20MAKE%20IT%20REAL&fontSize=15&fontColor=C9A876&fontAlignY=78" width="100%"/>
-
-</div>
 
 </div>
