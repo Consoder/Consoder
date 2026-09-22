@@ -2,9 +2,9 @@
   TYPE SYSTEM — Google Fonts, rendered server-side as SVG images.
   (GitHub strips <link> and <style>, so SVG text is the only way to ship a real font.)
 
-  Playfair Display 700 ... name + section headers      (display)
-  Cinzel 600 ............. labels, card + row titles   (small-caps voice)
-  JetBrains Mono 500 ..... terminal / technical lines  (same face as the ASCII portrait)
+  Playfair Display 700 ... headings only (name + section headers)
+  Cinzel 600 ............. every other styleable text
+  (Body paragraphs fall back to GitHub's default face — markdown text cannot be styled.)
 
   COLOR ROLES
   #C9A876 gold ....... section headers
@@ -29,15 +29,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=420&height=36&lines=Full-Stack+%C2%B7+Backend+Engineer" alt="Full-Stack · Backend Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=420&height=32&lines=Jaipur%2C+India+%C2%B7+remote-ready;open+to+SDE+%2F+full-stack+%2F+backend" alt="Jaipur, India · remote-ready · open to SDE / full-stack / backend"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=13&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=420&height=32&lines=Open+to+SDE+%2F+Full-Stack+%2F+Backend+%C2%B7+Remote-Ready" alt="Open to SDE / Full-Stack / Backend · Remote-Ready"/>
 
 <br/>
-
-<img src="https://img.shields.io/badge/DSA_SOLVED-385-4c1d95?style=flat-square&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/MEDIUM-181-4c1d95?style=flat-square&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/HARD-34-4c1d95?style=flat-square&labelColor=1a0533"/>
-
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,typescript,react,nextjs&theme=dark&perline=6" height="38"/>
 
@@ -72,7 +66,7 @@
 
 ```typescript
 const kartik = {
-  location: "Jaipur, IN — remote-ready",
+  remote: true,
   education: "B.Tech CSE '27 · SKIT · 8.3 CGPA",
 
   languages: ["C++", "Python", "JavaScript", "SQL", "C"],
@@ -80,8 +74,6 @@ const kartik = {
   frontend:  ["React", "Next.js", "Tailwind"],
   data:      ["PostgreSQL", "MongoDB", "Redis"],
   infra:     ["Docker", "AWS", "GitHub Actions"],
-
-  dsa: { solved: 385, medium: 181, hard: 34 },
 
   obsession: "systems where the hot path never blocks",
   hireable: true,
@@ -209,6 +201,19 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <table width="100%">
 <tr>
+<td width="60" align="center" valign="middle">🏅</td>
+<td width="380" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=HackerRank" alt="HackerRank SQL Certified"/><br/>
+<b>Advanced Certified</b><br/><sub>Verified advanced-level assessment</sub>
+</td>
+<td width="60" align="center" valign="middle">☁️</td>
+<td width="380" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=AWS+Certified" alt="AWS Certified"/><br/>
+<b>Cloud Practitioner Essentials</b><br/><sub>EC2 · S3 · VPC · IAM</sub>
+</td>
+</tr>
+<tr><td colspan="4" height="18"></td></tr>
+<tr>
 <td width="60" align="center" valign="middle">🥈</td>
 <td width="380" valign="middle">
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=IEEE+Hackathon" alt="IEEE Hackathon"/><br/>
@@ -222,15 +227,15 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 </tr>
 <tr><td colspan="4" height="18"></td></tr>
 <tr>
-<td width="60" align="center" valign="middle">☁️</td>
-<td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=AWS+Certified" alt="AWS Certified"/><br/>
-<b>Cloud Practitioner Essentials</b><br/><sub>EC2 · S3 · VPC · IAM</sub>
-</td>
 <td width="60" align="center" valign="middle">✨</td>
 <td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=AI+Credentials" alt="AI Credentials"/><br/>
-<b>Google Vertex AI</b> — Prompt Design<br/><sub>Deloitte Data Analytics</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=Google+Vertex+AI" alt="Google Vertex AI"/><br/>
+<b>Prompt Design</b><br/><sub>Generative AI track</sub>
+</td>
+<td width="60" align="center" valign="middle">📊</td>
+<td width="380" valign="middle">
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=Deloitte" alt="Deloitte"/><br/>
+<b>Data Analytics</b><br/><sub>Job simulation programme</sub>
 </td>
 </tr>
 </table>
