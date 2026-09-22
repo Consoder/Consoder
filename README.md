@@ -6,11 +6,7 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<samp>●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;kartik@dev:~$</samp>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/kartik-photo.jpg" width="220" style="border-radius:14px" alt="Kartik Bhargava"/>
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/hero-terminal.svg" width="220" alt="Kartik Bhargava"/>
 
 </td>
 <td width="70%" align="center" valign="middle">
@@ -48,18 +44,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=380&height=42&lines=00.+WHOAMI" alt="00. Whoami"/>
 </h2>
 
-<table width="100%">
-<tr>
-<td width="46%" align="center" valign="top">
-
-<samp>$ cat self_portrait.ascii</samp>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/ascii-portrait.png" width="100%" alt="ASCII self-portrait of Kartik Bhargava"/>
-
-</td>
-<td width="54%" valign="top">
+<div align="center">
 
 ```bash
 kartik@dev:~$ whoami
@@ -83,11 +68,9 @@ kartik@dev:~$ status --current
 kartik@dev:~$ _
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100%" alt="terminal hacker animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="55%" alt="terminal hacker animation"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
@@ -317,46 +300,6 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ══════════════ 06 — TELEMETRY ══════════════ -->
-
-<h2 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=06.+TELEMETRY" alt="06. Telemetry"/>
-</h2>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DSA_SOLVED-385+-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
-<img src="https://img.shields.io/badge/MEDIUM-181-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
-<img src="https://img.shields.io/badge/HARD-34-1a0533?style=for-the-badge&labelColor=1a0533&color=1a0533&logoColor=C9A876"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Consoder?style=for-the-badge&label=FOLLOWERS&labelColor=1a0533&color=1a0533"/>&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Consoder&style=for-the-badge&color=1a0533&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-<img src="https://github-stats-extended.vercel.app/api?username=Consoder&show_icons=true&count_private=true&hide_border=false&bg_color=0d001a&title_color=C9A876&text_color=E8D5FF&icon_color=A78BFA&border_color=8B5CF6" width="49%" alt="github stats"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Consoder&layout=compact&hide_border=false&bg_color=0d001a&title_color=C9A876&text_color=E8D5FF&border_color=8B5CF6&langs_count=8" width="38%" alt="top languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=Consoder&background=0D001A&ring=8B5CF6&fire=C9A876&currStreakLabel=E8D5FF&sideLabels=A78BFA&currStreakNum=E8D5FF&sideNums=E8D5FF&border=8B5CF6&dates=A78BFA" width="90%" alt="streak stats"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Consoder&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="trophies"/>
-
-<br/><br/>
-
-<!-- CONTRIBUTION SNAKE — needs .github/workflows/snake.yml + one manual Action run.
-     Skipping that setup? Delete this <picture> block, it will 404 otherwise. -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
 </div>
 
 <br/>
