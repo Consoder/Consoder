@@ -1,14 +1,19 @@
 <!--
-  TYPE SYSTEM (Google Fonts, rendered via readme-typing-svg)
-  Display / section headers ...... Space Grotesk 700
-  UI / card titles ............... Inter 700
-  Technical / terminal accents ... JetBrains Mono 500   (same face as the ASCII portrait)
+  TYPE SYSTEM — Google Fonts, rendered server-side as SVG images.
+  (GitHub strips <link> and <style>, so SVG text is the only way to ship a real font.)
+
+  Playfair Display 700 ... name + section headers      (display)
+  Cinzel 600 ............. labels, card + row titles   (small-caps voice)
+  JetBrains Mono 500 ..... terminal / technical lines  (same face as the ASCII portrait)
 
   COLOR ROLES
-  #C9A876 gold ....... section headers only (top of hierarchy)
-  #E8D5FF lavender ... card titles + name
+  #C9A876 gold ....... section headers
+  #E8D5FF lavender ... name + card titles
   #A78BFA violet ..... supporting / mono text
   #1a0533 indigo ..... badge fills
+
+  LOCAL ASSETS (repo root)
+  hero-terminal_1.gif · matrix-rain.gif · footer-terminal.gif · divider.gif
 -->
 
 <table width="100%">
@@ -18,23 +23,29 @@
 <img src="https://raw.githubusercontent.com/Consoder/Consoder/main/hero-terminal_1.gif" width="420" alt="Kartik Bhargava — ASCII portrait decoding in a terminal"/>
 
 </td>
-<td width="440" valign="middle">
+<td width="440" align="center" valign="middle">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=420&height=54&lines=Kartik+Bhargava" alt="Kartik Bhargava"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=40&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=420&height=66&lines=Kartik+Bhargava" alt="Kartik Bhargava"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=15&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=420&height=26&lines=Full-Stack+%C2%B7+Backend+Engineer+%E2%80%94+Jaipur%2C+India" alt="Full-Stack · Backend Engineer — Jaipur, India"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=A78BFA&center=true&vCenter=true&width=420&height=36&lines=Full-Stack+%C2%B7+Backend+Engineer" alt="Full-Stack · Backend Engineer"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=22&lines=open+to+SDE+%2F+full-stack+%2F+backend+%C2%B7+remote-ready" alt="open to SDE / full-stack / backend · remote-ready"/>
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,typescript,react,nextjs&theme=dark&perline=6" height="40"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark&perline=6" height="40"/>
-
-<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,tailwind,postman&theme=dark&perline=6" height="40"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=420&height=32&lines=Jaipur%2C+India+%C2%B7+remote-ready;open+to+SDE+%2F+full-stack+%2F+backend" alt="Jaipur, India · remote-ready · open to SDE / full-stack / backend"/>
 
 <br/>
+
+<img src="https://img.shields.io/badge/DSA_SOLVED-385-4c1d95?style=flat-square&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/MEDIUM-181-4c1d95?style=flat-square&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/HARD-34-4c1d95?style=flat-square&labelColor=1a0533"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,python,js,typescript,react,nextjs&theme=dark&perline=6" height="38"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mongodb,redis&theme=dark&perline=6" height="38"/>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,tailwind,postman&theme=dark&perline=6" height="38"/>
+
+<br/><br/>
 
 <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1a0533?style=flat-square&labelColor=1a0533&color=1a0533&logo=vercel&logoColor=C9A876" height="28"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LINKEDIN-1a0533?style=flat-square&labelColor=1a0533&color=1a0533&logo=linkedin&logoColor=a78bfa" height="28"/></a>&nbsp;
@@ -45,54 +56,14 @@
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
-
-<br/>
-
-<!-- ═════════════════════ 00 — SNAPSHOT ═════════════════════ -->
-
-<h2>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=38&lines=00.+SNAPSHOT" alt="00. Snapshot"/>
-</h2>
-
-<table width="100%">
-<tr>
-<td width="60" align="center" valign="middle">🎯</td>
-<td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=26&lines=Focus" alt="Focus"/><br/>
-Systems where the hot path never blocks — cache first, queue the rest.
-</td>
-<td width="60" align="center" valign="middle">📍</td>
-<td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=26&lines=Base" alt="Base"/><br/>
-Jaipur, India — remote-ready.<br/>B.Tech CSE '27 · SKIT · 8.3 CGPA
-</td>
-</tr>
-<tr><td colspan="4" height="18"></td></tr>
-<tr>
-<td width="60" align="center" valign="middle">🧮</td>
-<td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=26&lines=DSA+Log" alt="DSA Log"/><br/>
-<img src="https://img.shields.io/badge/SOLVED-385-4c1d95?style=flat-square&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/MEDIUM-181-4c1d95?style=flat-square&labelColor=1a0533"/>
-<img src="https://img.shields.io/badge/HARD-34-4c1d95?style=flat-square&labelColor=1a0533"/>
-</td>
-<td width="60" align="center" valign="middle">🚀</td>
-<td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=26&lines=Shipping" alt="Shipping"/><br/>
-Pulse.io · ROASTCODE · Vision-Nav<br/>Open to SDE / Full-Stack / Backend roles.
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/divider.gif" width="100%" alt=""/>
 
 <br/>
 
 <!-- ═════════════════════ 01 — THE ENGINEER ═════════════════════ -->
 
 <h2>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=38&lines=01.+THE+ENGINEER" alt="01. The Engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=27&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=44&lines=01.+The+Engineer" alt="01. The Engineer"/>
 </h2>
 
 <table width="100%">
@@ -124,17 +95,17 @@ const kartik = {
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/divider.gif" width="100%" alt=""/>
 
 <br/>
 
 <!-- ═════════════════════ 02 — THE ARCHITECTURE ═════════════════════ -->
 
 <h2>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=38&lines=02.+THE+ARCHITECTURE" alt="02. The Architecture"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=27&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=44&lines=02.+The+Architecture" alt="02. The Architecture"/>
 </h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=620&height=24&lines=pulse.io+%E2%80%94+a+redirect+that+never+waits+for+analytics" alt="pulse.io — a redirect that never waits for analytics"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=620&height=28&lines=Pulse.io+%E2%80%94+a+redirect+that+never+waits+for+analytics" alt="Pulse.io — a redirect that never waits for analytics"/>
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1a0533','primaryTextColor':'#e8d5ff','primaryBorderColor':'#8b5cf6','lineColor':'#a78bfa','fontFamily':'monospace','clusterBkg':'#0d001a'}}}%%
@@ -156,20 +127,20 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/divider.gif" width="100%" alt=""/>
 
 <br/>
 
 <!-- ═════════════════════ 03 — SELECTED WORKS ═════════════════════ -->
 
 <h2>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=38&lines=03.+SELECTED+WORKS" alt="03. Selected Works"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=27&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=44&lines=03.+Selected+Works" alt="03. Selected Works"/>
 </h2>
 
 <table width="100%">
 <tr>
 <td width="293" valign="top">
-<img src="https://img.shields.io/badge/-LINK_INTELLIGENCE_ENGINE-4c1d95?style=flat-square&labelColor=1a0533"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=12&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=280&height=24&lines=Link+Intelligence+Engine" alt="Link Intelligence Engine"/>
 <h3>⚡ Pulse.io</h3>
 Sub-50ms redirects. JWT + Google OAuth, MongoDB aggregation pipelines for geo / device / campaign breakdowns, Recharts + Framer Motion dashboard.
 <br/><br/>
@@ -178,7 +149,7 @@ Sub-50ms redirects. JWT + Google OAuth, MongoDB aggregation pipelines for geo / 
 <a href="https://github.com/Consoder/Pulse.io"><b>→ repository</b></a>
 </td>
 <td width="293" valign="top">
-<img src="https://img.shields.io/badge/-AI_CODE_REVIEW_7_LANGUAGES-4c1d95?style=flat-square&labelColor=1a0533"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=12&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=280&height=24&lines=AI+Code+Review+%C2%B7+7+Languages" alt="AI Code Review · 7 Languages"/>
 <h3>🔍 Code Analysis Platform</h3>
 Bug detection, Big-O analysis, quality scoring. Redis cache keyed on SHA-256 of source — repeat analysis drops from 2–8s to <b>~40ms</b>. JWT + OAuth, rate limiting.
 <br/><br/>
@@ -187,7 +158,7 @@ Bug detection, Big-O analysis, quality scoring. Redis cache keyed on SHA-256 of 
 <a href="https://github.com/Consoder/ROASTCODE"><b>→ repository</b></a>
 </td>
 <td width="293" valign="top">
-<img src="https://img.shields.io/badge/-BEHAVIORAL_CLONING_CNN-4c1d95?style=flat-square&labelColor=1a0533"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=12&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=280&height=24&lines=Behavioral+Cloning+CNN" alt="Behavioral Cloning CNN"/>
 <h3>🚗 Vision Navigation</h3>
 NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val accuracy</b>, real-time CPU inference. Pygame sim with Grad-CAM overlays.
 <br/><br/>
@@ -202,14 +173,14 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/divider.gif" width="100%" alt=""/>
 
 <br/>
 
 <!-- ═════════════════════ 04 — THE EXPERIENCE ═════════════════════ -->
 
 <h2>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=38&lines=04.+THE+EXPERIENCE" alt="04. The Experience"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=27&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=44&lines=04.+The+Experience" alt="04. The Experience"/>
 </h2>
 
 <table width="100%">
@@ -240,12 +211,12 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <tr>
 <td width="60" align="center" valign="middle">🥈</td>
 <td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=26&lines=IEEE+Hackathon" alt="IEEE Hackathon"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=IEEE+Hackathon" alt="IEEE Hackathon"/><br/>
 <b>2nd Place</b><br/><sub>Working prototype + go-to-market strategy</sub>
 </td>
 <td width="60" align="center" valign="middle">🎤</td>
 <td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=26&lines=DevOps+Workshop" alt="DevOps Workshop"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=DevOps+Workshop" alt="DevOps Workshop"/><br/>
 <b>Coordinator</b><br/><sub>Led a session for 100+ students</sub>
 </td>
 </tr>
@@ -253,31 +224,31 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <tr>
 <td width="60" align="center" valign="middle">☁️</td>
 <td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=26&lines=AWS+Certified" alt="AWS Certified"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=AWS+Certified" alt="AWS Certified"/><br/>
 <b>Cloud Practitioner Essentials</b><br/><sub>EC2 · S3 · VPC · IAM</sub>
 </td>
 <td width="60" align="center" valign="middle">✨</td>
 <td width="380" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=17&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=26&lines=AI+Credentials" alt="AI Credentials"/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=15&duration=1&pause=99999&color=E8D5FF&center=false&vCenter=true&width=340&height=28&lines=AI+Credentials" alt="AI Credentials"/><br/>
 <b>Google Vertex AI</b> — Prompt Design<br/><sub>Deloitte Data Analytics</sub>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/divider.gif" width="100%" alt=""/>
 
 <br/>
 
 <!-- ═════════════════════ 05 — THE STACK ═════════════════════ -->
 
 <h2>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=25&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=38&lines=05.+THE+STACK" alt="05. The Stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=27&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=44&lines=05.+The+Stack" alt="05. The Stack"/>
 </h2>
 
 <table width="100%">
 <tr>
 <td width="180" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=15&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=170&height=24&lines=Languages" alt="Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=170&height=26&lines=Languages" alt="Languages"/>
 </td>
 <td width="700" valign="middle">
 <img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql&theme=dark&perline=8" height="52"/>
@@ -286,7 +257,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <tr><td colspan="2" height="12"></td></tr>
 <tr>
 <td width="180" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=15&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=170&height=24&lines=Front+%2B+Back" alt="Front + Back"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=170&height=26&lines=Front+%2B+Back" alt="Front + Back"/>
 </td>
 <td width="700" valign="middle">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark&perline=8" height="52"/>
@@ -295,7 +266,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <tr><td colspan="2" height="12"></td></tr>
 <tr>
 <td width="180" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=15&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=170&height=24&lines=Data" alt="Data"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=170&height=26&lines=Data" alt="Data"/>
 </td>
 <td width="700" valign="middle">
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=8" height="52"/>
@@ -304,7 +275,7 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <tr><td colspan="2" height="12"></td></tr>
 <tr>
 <td width="180" valign="middle">
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=15&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=170&height=24&lines=Tools+%2B+Cloud" alt="Tools + Cloud"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=14&duration=1&pause=99999&color=A78BFA&center=false&vCenter=true&width=170&height=26&lines=Tools+%2B+Cloud" alt="Tools + Cloud"/>
 </td>
 <td width="700" valign="middle">
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,postman&theme=dark&perline=8" height="52"/>
@@ -316,36 +287,17 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
-
-<br/>
-
-<!-- ═════════════════════ CONTRIBUTION SNAKE ═════════════════════ -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/divider.gif" width="100%" alt=""/>
 
 <br/>
 
 <!-- ═════════════════════ SIGN-OFF ═════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:C9A876,50:8b5cf6,100:C9A876" width="100%"/>
-
-<br/>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=1&pause=99999&color=E8D5FF&center=true&vCenter=true&width=600&height=40&lines=Let's+build+something+real" alt="Let's build something real"/>
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/footer-terminal.gif" width="880" alt="kartik@dev — contact card"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=1&pause=99999&color=C9A876&center=true&vCenter=true&width=600&height=24&lines=build+fast+%C2%B7+ship+clean+%C2%B7+make+it+real" alt="build fast · ship clean · make it real"/>
-
-<br/>
+<br/><br/>
 
 <a href="https://kartik-portfolio-6k36.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-1a0533?style=flat-square&labelColor=1a0533&color=1a0533&logo=vercel&logoColor=C9A876" height="28"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/kartik-bhargava-248796257"><img src="https://img.shields.io/badge/LINKEDIN-1a0533?style=flat-square&labelColor=1a0533&color=1a0533&logo=linkedin&logoColor=a78bfa" height="28"/></a>&nbsp;
