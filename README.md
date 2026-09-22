@@ -6,7 +6,11 @@
 <tr>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/assets/hero-terminal.svg" width="220" alt="Kartik Bhargava"/>
+<samp>●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;~/kartik.jpg</samp>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Consoder/Consoder/main/Pofile-Photo.png" width="210" alt="Kartik Bhargava"/>
 
 </td>
 <td width="70%" align="center" valign="middle">
@@ -38,13 +42,57 @@
 
 <br/>
 
-<!-- ══════════════ 00 — WHOAMI ══════════════ -->
+<!-- ══════════════ 00 — SNAPSHOT ══════════════ -->
 
 <h2 align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=380&height=42&lines=00.+WHOAMI" alt="00. Whoami"/>
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=420&height=42&lines=00.+SNAPSHOT" alt="00. Snapshot"/>
 </h2>
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/-FOCUS-1a0533?style=for-the-badge"/>
+
+<br/><br/>
+
+<samp>"systems where the hot path<br/>never blocks"</samp>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/-BASE-1a0533?style=for-the-badge"/>
+
+<br/><br/>
+
+<samp>📍 Jaipur, India — remote-ready<br/>🎓 B.Tech CSE '27 · SKIT · 8.3 CGPA</samp>
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/-DSA_LOG-1a0533?style=for-the-badge"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SOLVED-385-4c1d95?style=flat-square&labelColor=1a0533"/>&nbsp;<img src="https://img.shields.io/badge/MEDIUM-181-4c1d95?style=flat-square&labelColor=1a0533"/>&nbsp;<img src="https://img.shields.io/badge/HARD-34-4c1d95?style=flat-square&labelColor=1a0533"/>
+
+</td>
+<td align="center" valign="top">
+
+<img src="https://img.shields.io/badge/-STATUS-1a0533?style=for-the-badge"/>
+
+<br/><br/>
+
+<samp>🟢 open to SDE / Full-Stack / Backend<br/>🚀 shipping Pulse.io · ROASTCODE · Vision-Nav</samp>
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td colspan="2" align="center">
 
 ```bash
 kartik@dev:~$ whoami
@@ -53,11 +101,6 @@ Kartik Bhargava
 > Full-Stack / Backend Engineer
 > B.Tech CSE '27 · SKIT · 8.3 CGPA
 > Jaipur, India — remote-ready
-
-kartik@dev:~$ cat focus.txt
-
-systems where the hot path never blocks
-cache first, block never, ship clean
 
 kartik@dev:~$ status --current
 
@@ -68,9 +111,11 @@ kartik@dev:~$ status --current
 kartik@dev:~$ _
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="55%" alt="terminal hacker animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="45%" alt="terminal hacker animation"/>
 
-</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
@@ -159,12 +204,19 @@ flowchart LR
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=26&duration=1&pause=99999&color=C9A876&center=false&vCenter=true&width=460&height=42&lines=03.+SELECTED+WORKS" alt="03. Selected Works"/>
 </h2>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" height="90" alt="programming"/>
+</div>
+
+<br/>
+
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
 
+<div align="center"><img src="https://img.shields.io/badge/-LINK_INTELLIGENCE_ENGINE-4c1d95?style=flat-square&labelColor=1a0533"/></div>
+
 <h3 align="center">⚡ Pulse.io</h3>
-<p align="center"><sub><samp>LINK INTELLIGENCE ENGINE</samp></sub></p>
 
 Sub-50ms redirects (architecture ↑). JWT + Google OAuth, MongoDB aggregation pipelines for geo / device / campaign breakdowns, Recharts + Framer Motion dashboard.
 
@@ -175,8 +227,9 @@ Sub-50ms redirects (architecture ↑). JWT + Google OAuth, MongoDB aggregation p
 </td>
 <td width="33%" valign="top">
 
+<div align="center"><img src="https://img.shields.io/badge/-AI_CODE_REVIEW·7_LANGUAGES-4c1d95?style=flat-square&labelColor=1a0533"/></div>
+
 <h3 align="center">🔍 Code Analysis Platform</h3>
-<p align="center"><sub><samp>AI CODE REVIEW · 7 LANGUAGES</samp></sub></p>
 
 Bug detection, Big-O analysis, quality scoring. Redis cache keyed on SHA-256 of source — repeat analysis drops from 2–8s to <b>~40ms</b>. JWT + OAuth, rate limiting, PostgreSQL.
 
@@ -187,8 +240,9 @@ Bug detection, Big-O analysis, quality scoring. Redis cache keyed on SHA-256 of 
 </td>
 <td width="33%" valign="top">
 
+<div align="center"><img src="https://img.shields.io/badge/-BEHAVIORAL_CLONING_CNN-4c1d95?style=flat-square&labelColor=1a0533"/></div>
+
 <h3 align="center">🚗 Vision Navigation</h3>
-<p align="center"><sub><samp>BEHAVIORAL CLONING CNN</samp></sub></p>
 
 NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val accuracy</b>, real-time CPU inference. Pygame sim with Grad-CAM showing what the model watches while steering.
 
@@ -239,20 +293,41 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 <tr>
 <td width="50%" align="center" valign="top">
 
-<samp>HONOURS</samp>
+<img src="https://img.shields.io/badge/🥈_IEEE_HACKATHON-1a0533?style=for-the-badge"/>
 
-🥈 IEEE Hackathon — <b>2nd Place</b><br/><sub>working prototype + go-to-market strategy</sub>
+<br/><br/>
 
-🎤 DevOps Workshop <b>Coordinator</b> — <sub>100+ students</sub>
+<b>2nd Place</b><br/><sub>working prototype + go-to-market strategy</sub>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<samp>CREDENTIALS</samp>
+<img src="https://img.shields.io/badge/🎤_DEVOPS_WORKSHOP-1a0533?style=for-the-badge"/>
 
-☁️ AWS Cloud Practitioner Essentials<br/><sub>EC2 · S3 · VPC · IAM</sub>
+<br/><br/>
 
-✨ Google Vertex AI — Prompt Design · 📊 Deloitte Data Analytics
+<b>Coordinator</b><br/><sub>100+ students</sub>
+
+</td>
+</tr>
+<tr><td colspan="2"><br/></td></tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/☁️_AWS_CERTIFIED-1a0533?style=for-the-badge"/>
+
+<br/><br/>
+
+<b>Cloud Practitioner Essentials</b><br/><sub>EC2 · S3 · VPC · IAM</sub>
+
+</td>
+<td width="50%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/✨_AI_CREDENTIALS-1a0533?style=for-the-badge"/>
+
+<br/><br/>
+
+<b>Google Vertex AI</b> — Prompt Design<br/><sub>📊 Deloitte Data Analytics</sub>
 
 </td>
 </tr>
@@ -276,22 +351,22 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <table width="100%">
 <tr>
-<td align="center" width="20%"><samp>LANGUAGES</samp></td>
+<td align="center" width="20%"><img src="https://img.shields.io/badge/-LANGUAGES-1a0533?style=for-the-badge"/></td>
 <td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=cpp,python,js,c,mysql&theme=dark&perline=8" height="62"/><br/>&nbsp;</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
-<td align="center"><samp>FRONTEND<br/>×<br/>BACKEND</samp></td>
+<td align="center"><img src="https://img.shields.io/badge/FRONTEND_×_BACKEND-1a0533?style=for-the-badge"/></td>
 <td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind&theme=dark&perline=8" height="62"/><br/>&nbsp;</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
-<td align="center"><samp>DATA</samp></td>
+<td align="center"><img src="https://img.shields.io/badge/-DATA-1a0533?style=for-the-badge"/></td>
 <td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=8" height="62"/><br/>&nbsp;</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
-<td align="center"><samp>TOOLS<br/>×<br/>CLOUD</samp></td>
+<td align="center"><img src="https://img.shields.io/badge/TOOLS_×_CLOUD-1a0533?style=for-the-badge"/></td>
 <td align="center" width="80%">&nbsp;<br/><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,aws,postman&theme=dark&perline=8" height="62"/><br/>&nbsp;</td>
 </tr>
 </table>
@@ -300,6 +375,20 @@ NVIDIA-style end-to-end CNN, 4,500+ labeled frames → <b>121K params, 94.1% val
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0f,50:8b5cf6,100:0a0a0f" width="100%"/>
+</div>
+
+<br/>
+
+<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
+
+<div align="center">
+
+<!-- generated by the .github/workflows snake action already in this repo -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Consoder/Consoder/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
 </div>
 
 <br/>
